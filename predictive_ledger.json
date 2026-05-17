@@ -1,0 +1,36 @@
+{
+    "active_portals": {
+        "liga-mx-femenil": {
+            "keyword": "liga mx femenil",
+            "file": "production_sites/liga-mx-femenil.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 18:32:32"
+        },
+        "lyon---lens": {
+            "keyword": "lyon - lens",
+            "file": "production_sites/lyon---lens.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 18:32:32"
+        },
+        "strawberry-festival-ventura": {
+            "keyword": "strawberry festival ventura",
+            "file": "production_sites/strawberry-festival-ventura.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 18:32:32"
+        },
+        "kieran-trippier": {
+            "keyword": "kieran trippier",
+            "file": "production_sites/kieran-trippier.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 18:32:32"
+        },
+        "elmer-rodriguez": {
+            "keyword": "elmer rodriguez",
+            "file": "production_sites/elmer-rodriguez.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 18:32:32"
+        }
+    },
+    "cumulative_projected_value": 225.0,
+    "last_prediction_cycle": "2026-05-17 18:32:32"
+}
