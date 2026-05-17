@@ -29,8 +29,38 @@
             "file": "production_sites/elmer-rodriguez.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-17 18:32:32"
+        },
+        "austin-shelter-in-place": {
+            "keyword": "austin shelter in place",
+            "file": "production_sites/austin-shelter-in-place.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 20:39:57"
+        },
+        "shelter-in-place-austin": {
+            "keyword": "shelter in place austin",
+            "file": "production_sites/shelter-in-place-austin.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 20:39:57"
+        },
+        "wnba-games-today": {
+            "keyword": "wnba games today",
+            "file": "production_sites/wnba-games-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 20:39:57"
+        },
+        "shelter-in-place": {
+            "keyword": "shelter in place",
+            "file": "production_sites/shelter-in-place.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 20:39:57"
+        },
+        "bruno-mars-soldier-field-review": {
+            "keyword": "bruno mars soldier field review",
+            "file": "production_sites/bruno-mars-soldier-field-review.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-17 20:39:57"
         }
     },
-    "cumulative_projected_value": 225.0,
-    "last_prediction_cycle": "2026-05-17 18:32:32"
+    "cumulative_projected_value": 450.0,
+    "last_prediction_cycle": "2026-05-17 20:39:57"
 }

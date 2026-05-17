@@ -7,13 +7,6 @@ import subprocess
 from datetime import datetime
 
 class AutopilotProductionEngine:
-    """
-    Sovereign Predictive SEO Engine.
-    1. Scrapes real-time trending indicators.
-    2. Calculates B2B Commercial Feasibility scores.
-    3. Auto-compiles responsive, light HTML landing portals.
-    4. Auto-commits and pushes code directly to GitHub.
-    """
     def __init__(self, output_dir: str = "production_sites", ledger_file: str = "predictive_ledger.json"):
         self.output_dir = output_dir
         self.ledger_file = ledger_file
@@ -115,31 +108,42 @@ class AutopilotProductionEngine:
         kw = evaluation["keyword"]
         payout_tier = evaluation["estimated_payout"]
         
-        border_color = "border-emerald-500/30" if payout_tier >= 100 else "border-indigo-500/30"
-        bg_accent = "bg-emerald-950/20" if payout_tier >= 100 else "bg-indigo-950/20"
-        text_accent = "text-emerald-400" if payout_tier >= 100 else "text-indigo-400"
+        border_color = "border-zinc-800"
+        bg_accent = "bg-zinc-900"
+        text_accent = "text-indigo-400"
+
+        # Your EXACT, live, approved Adsterra code block!
+        adsterra_ad_code = """
+        <script async="async" data-cfasync="false" src="//pl29479102.effectivecpmnetwork.com/3f1e7f18ad6a5f1068050a266875da03/invoke.js"></script>
+        <div id="container-3f1e7f18ad6a5f1068050a266875da03" class="w-full flex justify-center py-2"></div>
+        """
 
         return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sovereign Index - {kw}</title>
+    <title>Sovereign Directory - {kw}</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-black text-zinc-100 min-h-screen font-sans flex flex-col justify-between">
     <header class="border-b border-zinc-900 p-5 bg-zinc-950/50 backdrop-blur">
         <div class="max-w-4xl mx-auto flex justify-between items-center">
             <h1 class="font-bold text-xs tracking-widest text-white uppercase">Sovereign Asset Node</h1>
-            <span class="text-xs text-zinc-500">System Live</span>
+            <span class="text-xs text-emerald-400 font-mono animate-pulse">● System Monetized</span>
         </div>
     </header>
 
     <main class="max-w-4xl mx-auto p-6 w-full flex-grow">
+        <!-- TOP AD PLACEMENT -->
+        <div class="w-full my-4">
+            {adsterra_ad_code}
+        </div>
+
         <div class="my-14 text-center">
             <span class="text-xs font-bold {text_accent} tracking-widest uppercase">Autonomous Directory Portal</span>
             <h2 class="text-4xl font-extrabold mt-3 mb-4 text-white">Top Vetted {kw} Directory</h2>
-            <p class="text-zinc-400 text-sm max-w-xl mx-auto">This portal ranks programmatically on Google search engines to route traffic into high-converting recurring software commissions.</p>
+            <p class="text-zinc-400 text-sm max-w-xl mx-auto">This portal ranks programmatically on Google search engines to route traffic and generate passive display ad commissions.</p>
         </div>
 
         <div class="grid gap-6 md:grid-cols-3">
@@ -188,6 +192,11 @@ class AutopilotProductionEngine:
                 </div>
             </div>
         </div>
+
+        <!-- BOTTOM AD PLACEMENT -->
+        <div class="w-full my-8">
+            {adsterra_ad_code}
+        </div>
     </main>
 
     <footer class="border-t border-zinc-900 p-6 text-center text-xs text-zinc-600">
@@ -198,15 +207,10 @@ class AutopilotProductionEngine:
 
     def push_to_github(self):
         try:
-            result = subprocess.run(["git", "remote", "get-url", "origin"], capture_output=True, text=True)
-            if result.returncode != 0:
-                print("[Autopilot Notice] Remote 'origin' not linked yet. Bypassing GitHub push...")
-                return
-            
             subprocess.run(["git", "add", "."], check=True)
-            subprocess.run(["git", "commit", "-m", "Auto-update: Fresh SEO Trends added"], check=True)
+            subprocess.run(["git", "commit", "-m", "Auto-update: Active Monetized SEO Nodes"], check=True)
             subprocess.run(["git", "push", "origin", "main"], check=True)
-            print("[Autopilot Git] Push success! Live pages updated on GitHub.")
+            print("[Autopilot Git] Push success! Live pages updated on Netlify.")
         except Exception as e:
             print(f"[Autopilot Notice] Git sync skipped: {e}")
 
