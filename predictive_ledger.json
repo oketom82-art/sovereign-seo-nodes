@@ -59,8 +59,38 @@
             "file": "production_sites/bruno-mars-soldier-field-review.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-17 20:39:57"
+        },
+        "trump-irs-lawsuit-settlement-talks": {
+            "keyword": "trump irs lawsuit settlement talks",
+            "file": "production_sites/trump-irs-lawsuit-settlement-talks.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-18 00:00:01"
+        },
+        "eddie-vedder": {
+            "keyword": "eddie vedder",
+            "file": "production_sites/eddie-vedder.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-18 00:00:01"
+        },
+        "macaulay-culkin": {
+            "keyword": "macaulay culkin",
+            "file": "production_sites/macaulay-culkin.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-18 00:00:01"
+        },
+        "rickea-jackson": {
+            "keyword": "rickea jackson",
+            "file": "production_sites/rickea-jackson.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-18 00:00:01"
+        },
+        "paris-hilton": {
+            "keyword": "paris hilton",
+            "file": "production_sites/paris-hilton.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-18 00:00:01"
         }
     },
-    "cumulative_projected_value": 450.0,
-    "last_prediction_cycle": "2026-05-17 20:39:57"
+    "cumulative_projected_value": 675.0,
+    "last_prediction_cycle": "2026-05-18 00:00:01"
 }
