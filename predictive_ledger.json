@@ -89,8 +89,38 @@
             "file": "production_sites/paris-hilton.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-18 00:00:01"
+        },
+        "what-channel-is-the-nba-game-on-tonight": {
+            "keyword": "what channel is the nba game on tonight",
+            "file": "production_sites/what-channel-is-the-nba-game-on-tonight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-19 00:00:02"
+        },
+        "her-private-hell": {
+            "keyword": "her private hell",
+            "file": "production_sites/her-private-hell.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-19 00:00:02"
+        },
+        "doug-allen-sabres": {
+            "keyword": "doug allen sabres",
+            "file": "production_sites/doug-allen-sabres.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-19 00:00:02"
+        },
+        "dutton-ranch-episode-3": {
+            "keyword": "dutton ranch episode 3",
+            "file": "production_sites/dutton-ranch-episode-3.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-19 00:00:02"
+        },
+        "canadiens-vs-sabres": {
+            "keyword": "canadiens vs sabres",
+            "file": "production_sites/canadiens-vs-sabres.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-19 00:00:02"
         }
     },
-    "cumulative_projected_value": 675.0,
-    "last_prediction_cycle": "2026-05-18 00:00:01"
+    "cumulative_projected_value": 900.0,
+    "last_prediction_cycle": "2026-05-19 00:00:02"
 }
