@@ -119,8 +119,38 @@
             "file": "production_sites/canadiens-vs-sabres.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-19 00:00:02"
+        },
+        "boca-vs-cruzeiro": {
+            "keyword": "boca vs cruzeiro",
+            "file": "production_sites/boca-vs-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-20 00:00:01"
+        },
+        "boca-juniors---cruzeiro": {
+            "keyword": "boca juniors - cruzeiro",
+            "file": "production_sites/boca-juniors---cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-20 00:00:01"
+        },
+        "s\u00e3o-paulo-vs-millonarios": {
+            "keyword": "s\u00e3o paulo vs millonarios",
+            "file": "production_sites/s\u00e3o-paulo-vs-millonarios.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-20 00:00:01"
+        },
+        "santa-fe---platense": {
+            "keyword": "santa fe - platense",
+            "file": "production_sites/santa-fe---platense.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-20 00:00:01"
+        },
+        "astros---twins": {
+            "keyword": "astros - twins",
+            "file": "production_sites/astros---twins.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-20 00:00:01"
         }
     },
-    "cumulative_projected_value": 900.0,
-    "last_prediction_cycle": "2026-05-19 00:00:02"
+    "cumulative_projected_value": 1125.0,
+    "last_prediction_cycle": "2026-05-20 00:00:01"
 }
