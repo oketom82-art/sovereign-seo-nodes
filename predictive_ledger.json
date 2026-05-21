@@ -149,8 +149,38 @@
             "file": "production_sites/astros---twins.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-20 00:00:01"
+        },
+        "golden-knights-vs-avalanche": {
+            "keyword": "golden knights vs avalanche",
+            "file": "production_sites/golden-knights-vs-avalanche.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-21 00:00:02"
+        },
+        "river-plate---bragantino": {
+            "keyword": "river plate - bragantino",
+            "file": "production_sites/river-plate---bragantino.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-21 00:00:02"
+        },
+        "uss-nimitz-caribbean-deployment": {
+            "keyword": "uss nimitz caribbean deployment",
+            "file": "production_sites/uss-nimitz-caribbean-deployment.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-21 00:00:02"
+        },
+        "ldu-quito---lan\u00fas": {
+            "keyword": "ldu quito - lan\u00fas",
+            "file": "production_sites/ldu-quito---lan\u00fas.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-21 00:00:02"
+        },
+        "crash-netflix": {
+            "keyword": "crash netflix",
+            "file": "production_sites/crash-netflix.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-21 00:00:02"
         }
     },
-    "cumulative_projected_value": 1125.0,
-    "last_prediction_cycle": "2026-05-20 00:00:01"
+    "cumulative_projected_value": 1350.0,
+    "last_prediction_cycle": "2026-05-21 00:00:02"
 }
