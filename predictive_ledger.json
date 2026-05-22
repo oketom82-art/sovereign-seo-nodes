@@ -179,8 +179,38 @@
             "file": "production_sites/crash-netflix.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-21 00:00:02"
+        },
+        "canadiens-vs-hurricanes": {
+            "keyword": "canadiens vs hurricanes",
+            "file": "production_sites/canadiens-vs-hurricanes.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-22 00:00:02"
+        },
+        "braydon-fisher": {
+            "keyword": "braydon fisher",
+            "file": "production_sites/braydon-fisher.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-22 00:00:02"
+        },
+        "ku-baseball": {
+            "keyword": "ku baseball",
+            "file": "production_sites/ku-baseball.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-22 00:00:02"
+        },
+        "knicks-schedule": {
+            "keyword": "knicks schedule",
+            "file": "production_sites/knicks-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-22 00:00:02"
+        },
+        "wvu-baseball": {
+            "keyword": "wvu baseball",
+            "file": "production_sites/wvu-baseball.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-22 00:00:02"
         }
     },
-    "cumulative_projected_value": 1350.0,
-    "last_prediction_cycle": "2026-05-21 00:00:02"
+    "cumulative_projected_value": 1575.0,
+    "last_prediction_cycle": "2026-05-22 00:00:02"
 }
