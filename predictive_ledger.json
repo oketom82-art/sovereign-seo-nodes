@@ -209,8 +209,32 @@
             "file": "production_sites/wvu-baseball.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-22 00:00:02"
+        },
+        "michael-kelly": {
+            "keyword": "michael kelly",
+            "file": "production_sites/michael-kelly.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-23 00:00:01"
+        },
+        "chaka-khan": {
+            "keyword": "chaka khan",
+            "file": "production_sites/chaka-khan.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-23 00:00:01"
+        },
+        "fire-country": {
+            "keyword": "fire country",
+            "file": "production_sites/fire-country.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-23 00:00:01"
+        },
+        "mission-impossible": {
+            "keyword": "mission impossible",
+            "file": "production_sites/mission-impossible.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-23 00:00:01"
         }
     },
-    "cumulative_projected_value": 1575.0,
-    "last_prediction_cycle": "2026-05-22 00:00:02"
+    "cumulative_projected_value": 1755.0,
+    "last_prediction_cycle": "2026-05-23 00:00:01"
 }
