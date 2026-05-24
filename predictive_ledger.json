@@ -233,8 +233,38 @@
             "file": "production_sites/mission-impossible.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-23 00:00:01"
+        },
+        "new-york-city-vs-nashville": {
+            "keyword": "new york city vs nashville",
+            "file": "production_sites/new-york-city-vs-nashville.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-24 00:00:01"
+        },
+        "jack-ryan-movies": {
+            "keyword": "jack ryan movies",
+            "file": "production_sites/jack-ryan-movies.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-24 00:00:01"
+        },
+        "eric-edelstein": {
+            "keyword": "eric edelstein",
+            "file": "production_sites/eric-edelstein.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-24 00:00:01"
+        },
+        "roki-sasaki": {
+            "keyword": "roki sasaki",
+            "file": "production_sites/roki-sasaki.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-24 00:00:01"
+        },
+        "james-marsden": {
+            "keyword": "james marsden",
+            "file": "production_sites/james-marsden.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-24 00:00:01"
         }
     },
-    "cumulative_projected_value": 1755.0,
-    "last_prediction_cycle": "2026-05-23 00:00:01"
+    "cumulative_projected_value": 1980.0,
+    "last_prediction_cycle": "2026-05-24 00:00:01"
 }
