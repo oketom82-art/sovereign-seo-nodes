@@ -263,8 +263,38 @@
             "file": "production_sites/james-marsden.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-24 00:00:01"
+        },
+        "thunder-vs-spurs": {
+            "keyword": "thunder vs spurs",
+            "file": "production_sites/thunder-vs-spurs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-25 00:00:01"
+        },
+        "avalanche-vs-golden-knights": {
+            "keyword": "avalanche vs golden knights",
+            "file": "production_sites/avalanche-vs-golden-knights.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-25 00:00:01"
+        },
+        "all-nba-teams-2026": {
+            "keyword": "all nba teams 2026",
+            "file": "production_sites/all-nba-teams-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-25 00:00:01"
+        },
+        "texas-rangers": {
+            "keyword": "texas rangers",
+            "file": "production_sites/texas-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-25 00:00:01"
+        },
+        "hans-zimmer": {
+            "keyword": "hans zimmer",
+            "file": "production_sites/hans-zimmer.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-25 00:00:01"
         }
     },
-    "cumulative_projected_value": 1980.0,
-    "last_prediction_cycle": "2026-05-24 00:00:01"
+    "cumulative_projected_value": 2205.0,
+    "last_prediction_cycle": "2026-05-25 00:00:01"
 }
