@@ -293,8 +293,38 @@
             "file": "production_sites/hans-zimmer.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-25 00:00:01"
+        },
+        "hurricanes-vs-canadiens": {
+            "keyword": "hurricanes vs canadiens",
+            "file": "production_sites/hurricanes-vs-canadiens.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-26 00:00:01"
+        },
+        "la-casa-de-los-famosos": {
+            "keyword": "la casa de los famosos",
+            "file": "production_sites/la-casa-de-los-famosos.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-26 00:00:01"
+        },
+        "new-movies-to-stream": {
+            "keyword": "new movies to stream",
+            "file": "production_sites/new-movies-to-stream.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-26 00:00:01"
+        },
+        "giants-game-today": {
+            "keyword": "giants game today",
+            "file": "production_sites/giants-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-26 00:00:01"
+        },
+        "fernando-tatis-jr": {
+            "keyword": "fernando tatis jr",
+            "file": "production_sites/fernando-tatis-jr.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-26 00:00:01"
         }
     },
-    "cumulative_projected_value": 2205.0,
-    "last_prediction_cycle": "2026-05-25 00:00:01"
+    "cumulative_projected_value": 2430.0,
+    "last_prediction_cycle": "2026-05-26 00:00:01"
 }
