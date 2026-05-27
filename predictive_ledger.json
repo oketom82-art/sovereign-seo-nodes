@@ -323,8 +323,32 @@
             "file": "production_sites/fernando-tatis-jr.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-26 00:00:01"
+        },
+        "twins-vs-white-sox": {
+            "keyword": "twins vs white sox",
+            "file": "production_sites/twins-vs-white-sox.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-27 00:00:02"
+        },
+        "yankees---royals": {
+            "keyword": "yankees - royals",
+            "file": "production_sites/yankees---royals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-27 00:00:02"
+        },
+        "joe-mazzulla": {
+            "keyword": "joe mazzulla",
+            "file": "production_sites/joe-mazzulla.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-27 00:00:02"
+        },
+        "rom-reddy": {
+            "keyword": "rom reddy",
+            "file": "production_sites/rom-reddy.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-27 00:00:02"
         }
     },
-    "cumulative_projected_value": 2430.0,
-    "last_prediction_cycle": "2026-05-26 00:00:01"
+    "cumulative_projected_value": 2610.0,
+    "last_prediction_cycle": "2026-05-27 00:00:02"
 }
