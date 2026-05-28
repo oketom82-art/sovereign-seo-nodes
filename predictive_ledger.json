@@ -347,8 +347,26 @@
             "file": "production_sites/rom-reddy.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-27 00:00:02"
+        },
+        "perfect-match-season-4": {
+            "keyword": "perfect match season 4",
+            "file": "production_sites/perfect-match-season-4.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-28 00:00:02"
+        },
+        "los-angeles-police-department": {
+            "keyword": "los angeles police department",
+            "file": "production_sites/los-angeles-police-department.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-28 00:00:02"
+        },
+        "eric-wagaman": {
+            "keyword": "eric wagaman",
+            "file": "production_sites/eric-wagaman.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-28 00:00:02"
         }
     },
-    "cumulative_projected_value": 2610.0,
-    "last_prediction_cycle": "2026-05-27 00:00:02"
+    "cumulative_projected_value": 2745.0,
+    "last_prediction_cycle": "2026-05-28 00:00:02"
 }
