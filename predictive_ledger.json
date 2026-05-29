@@ -365,8 +365,38 @@
             "file": "production_sites/eric-wagaman.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-28 00:00:02"
+        },
+        "chet-holmgren-stats": {
+            "keyword": "chet holmgren stats",
+            "file": "production_sites/chet-holmgren-stats.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-29 00:00:02"
+        },
+        "boca-vs-universidad-cat\u00f3lica": {
+            "keyword": "boca vs universidad cat\u00f3lica",
+            "file": "production_sites/boca-vs-universidad-cat\u00f3lica.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-29 00:00:02"
+        },
+        "cruzeiro---barcelona-sc": {
+            "keyword": "cruzeiro - barcelona sc",
+            "file": "production_sites/cruzeiro---barcelona-sc.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-29 00:00:02"
+        },
+        "tewaaraton-award-2026": {
+            "keyword": "tewaaraton award 2026",
+            "file": "production_sites/tewaaraton-award-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-29 00:00:02"
+        },
+        "pirates": {
+            "keyword": "pirates",
+            "file": "production_sites/pirates.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-29 00:00:02"
         }
     },
-    "cumulative_projected_value": 2745.0,
-    "last_prediction_cycle": "2026-05-28 00:00:02"
+    "cumulative_projected_value": 2970.0,
+    "last_prediction_cycle": "2026-05-29 00:00:02"
 }
