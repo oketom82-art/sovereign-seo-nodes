@@ -395,8 +395,38 @@
             "file": "production_sites/pirates.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-29 00:00:02"
+        },
+        "fifa-world-cup": {
+            "keyword": "fifa world cup",
+            "file": "production_sites/fifa-world-cup.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-30 00:00:02"
+        },
+        "brewers-vs-astros": {
+            "keyword": "brewers vs astros",
+            "file": "production_sites/brewers-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-30 00:00:02"
+        },
+        "costa-rica": {
+            "keyword": "costa rica",
+            "file": "production_sites/costa-rica.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-30 00:00:02"
+        },
+        "ian-happ": {
+            "keyword": "ian happ",
+            "file": "production_sites/ian-happ.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-30 00:00:02"
+        },
+        "pirates-score": {
+            "keyword": "pirates score",
+            "file": "production_sites/pirates-score.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-30 00:00:02"
         }
     },
-    "cumulative_projected_value": 2970.0,
-    "last_prediction_cycle": "2026-05-29 00:00:02"
+    "cumulative_projected_value": 3195.0,
+    "last_prediction_cycle": "2026-05-30 00:00:02"
 }
