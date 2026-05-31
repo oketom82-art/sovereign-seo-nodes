@@ -425,8 +425,38 @@
             "file": "production_sites/pirates-score.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-30 00:00:02"
+        },
+        "carnival-breach-6-million-affected": {
+            "keyword": "carnival breach 6 million affected",
+            "file": "production_sites/carnival-breach-6-million-affected.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-31 00:00:02"
+        },
+        "four-seasons-cast": {
+            "keyword": "four seasons cast",
+            "file": "production_sites/four-seasons-cast.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-31 00:00:02"
+        },
+        "holly-holm-fight": {
+            "keyword": "holly holm fight",
+            "file": "production_sites/holly-holm-fight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-31 00:00:02"
+        },
+        "new-movies-on-netflix": {
+            "keyword": "new movies on netflix",
+            "file": "production_sites/new-movies-on-netflix.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-31 00:00:02"
+        },
+        "mexico": {
+            "keyword": "mexico",
+            "file": "production_sites/mexico.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-05-31 00:00:02"
         }
     },
-    "cumulative_projected_value": 3195.0,
-    "last_prediction_cycle": "2026-05-30 00:00:02"
+    "cumulative_projected_value": 3420.0,
+    "last_prediction_cycle": "2026-05-31 00:00:02"
 }
