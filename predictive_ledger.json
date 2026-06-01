@@ -455,8 +455,32 @@
             "file": "production_sites/mexico.html",
             "payout_tier": 45.0,
             "generated_at": "2026-05-31 00:00:02"
+        },
+        "saint-mary's-college": {
+            "keyword": "saint mary's college",
+            "file": "production_sites/saint-mary's-college.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-01 00:00:02"
+        },
+        "ucla-softball": {
+            "keyword": "ucla softball",
+            "file": "production_sites/ucla-softball.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-01 00:00:02"
+        },
+        "nijaree-canady": {
+            "keyword": "nijaree canady",
+            "file": "production_sites/nijaree-canady.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-01 00:00:02"
+        },
+        "mia-williams": {
+            "keyword": "mia williams",
+            "file": "production_sites/mia-williams.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-01 00:00:02"
         }
     },
-    "cumulative_projected_value": 3420.0,
-    "last_prediction_cycle": "2026-05-31 00:00:02"
+    "cumulative_projected_value": 3705.0,
+    "last_prediction_cycle": "2026-06-01 00:00:02"
 }
