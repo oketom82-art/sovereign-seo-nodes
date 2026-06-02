@@ -479,8 +479,38 @@
             "file": "production_sites/mia-williams.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-01 00:00:02"
+        },
+        "suze-orman": {
+            "keyword": "suze orman",
+            "file": "production_sites/suze-orman.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-02 00:00:01"
+        },
+        "jeopardy-today": {
+            "keyword": "jeopardy today",
+            "file": "production_sites/jeopardy-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-02 00:00:01"
+        },
+        "alabama-softball": {
+            "keyword": "alabama softball",
+            "file": "production_sites/alabama-softball.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-02 00:00:01"
+        },
+        "wwdc-2026": {
+            "keyword": "wwdc 2026",
+            "file": "production_sites/wwdc-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-02 00:00:01"
+        },
+        "rick-adelman": {
+            "keyword": "rick adelman",
+            "file": "production_sites/rick-adelman.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-02 00:00:01"
         }
     },
-    "cumulative_projected_value": 3705.0,
-    "last_prediction_cycle": "2026-06-01 00:00:02"
+    "cumulative_projected_value": 3930.0,
+    "last_prediction_cycle": "2026-06-02 00:00:01"
 }
