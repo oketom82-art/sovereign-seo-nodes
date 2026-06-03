@@ -509,8 +509,38 @@
             "file": "production_sites/rick-adelman.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-02 00:00:01"
+        },
+        "hait\u00ed---nueva-zelanda": {
+            "keyword": "hait\u00ed - nueva zelanda",
+            "file": "production_sites/hait\u00ed---nueva-zelanda.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-03 00:00:01"
+        },
+        "golden-knights-vs-hurricanes": {
+            "keyword": "golden knights vs hurricanes",
+            "file": "production_sites/golden-knights-vs-hurricanes.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-03 00:00:01"
+        },
+        "junior---atl\u00e9tico-nacional": {
+            "keyword": "junior - atl\u00e9tico nacional",
+            "file": "production_sites/junior---atl\u00e9tico-nacional.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-03 00:00:01"
+        },
+        "medell\u00edn---c\u00facuta": {
+            "keyword": "medell\u00edn - c\u00facuta",
+            "file": "production_sites/medell\u00edn---c\u00facuta.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-03 00:00:01"
+        },
+        "dtf-st-louis": {
+            "keyword": "dtf st louis",
+            "file": "production_sites/dtf-st-louis.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-03 00:00:01"
         }
     },
-    "cumulative_projected_value": 3930.0,
-    "last_prediction_cycle": "2026-06-02 00:00:01"
+    "cumulative_projected_value": 4260.0,
+    "last_prediction_cycle": "2026-06-03 00:00:01"
 }
