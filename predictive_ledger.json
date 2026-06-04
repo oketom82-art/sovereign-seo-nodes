@@ -539,8 +539,38 @@
             "file": "production_sites/dtf-st-louis.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-03 00:00:01"
+        },
+        "cape-fear-2026": {
+            "keyword": "cape fear 2026",
+            "file": "production_sites/cape-fear-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-04 00:00:02"
+        },
+        "dan-and-shay": {
+            "keyword": "dan and shay",
+            "file": "production_sites/dan-and-shay.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-04 00:00:02"
+        },
+        "san-antonio-mayor": {
+            "keyword": "san antonio mayor",
+            "file": "production_sites/san-antonio-mayor.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-04 00:00:02"
+        },
+        "mayor-of-san-antonio": {
+            "keyword": "mayor of san antonio",
+            "file": "production_sites/mayor-of-san-antonio.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-04 00:00:02"
+        },
+        "aaron-judge-injury": {
+            "keyword": "aaron judge injury",
+            "file": "production_sites/aaron-judge-injury.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-04 00:00:02"
         }
     },
-    "cumulative_projected_value": 4260.0,
-    "last_prediction_cycle": "2026-06-03 00:00:01"
+    "cumulative_projected_value": 4485.0,
+    "last_prediction_cycle": "2026-06-04 00:00:02"
 }
