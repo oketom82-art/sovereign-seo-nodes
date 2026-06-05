@@ -569,8 +569,38 @@
             "file": "production_sites/aaron-judge-injury.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-04 00:00:02"
+        },
+        "college-football-27": {
+            "keyword": "college football 27",
+            "file": "production_sites/college-football-27.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-05 00:00:02"
+        },
+        "fifa-world-cup-2026\u2122": {
+            "keyword": "fifa world cup 2026\u2122",
+            "file": "production_sites/fifa-world-cup-2026\u2122.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-05 00:00:02"
+        },
+        "softball-college-world-series": {
+            "keyword": "softball college world series",
+            "file": "production_sites/softball-college-world-series.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-05 00:00:02"
+        },
+        "soap-opera-digest": {
+            "keyword": "soap opera digest",
+            "file": "production_sites/soap-opera-digest.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-05 00:00:02"
+        },
+        "ellen-pompeo-next-tv-role": {
+            "keyword": "ellen pompeo next tv role",
+            "file": "production_sites/ellen-pompeo-next-tv-role.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-05 00:00:02"
         }
     },
-    "cumulative_projected_value": 4485.0,
-    "last_prediction_cycle": "2026-06-04 00:00:02"
+    "cumulative_projected_value": 4710.0,
+    "last_prediction_cycle": "2026-06-05 00:00:02"
 }
