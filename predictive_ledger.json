@@ -599,8 +599,32 @@
             "file": "production_sites/ellen-pompeo-next-tv-role.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-05 00:00:02"
+        },
+        "mlb-all-star-voting": {
+            "keyword": "mlb all star voting",
+            "file": "production_sites/mlb-all-star-voting.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-06 00:00:02"
+        },
+        "reds-vs-cardinals": {
+            "keyword": "reds vs cardinals",
+            "file": "production_sites/reds-vs-cardinals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-06 00:00:02"
+        },
+        "guardians-vs-rangers": {
+            "keyword": "guardians vs rangers",
+            "file": "production_sites/guardians-vs-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-06 00:00:02"
+        },
+        "athletics-vs-astros": {
+            "keyword": "athletics vs astros",
+            "file": "production_sites/athletics-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-06 00:00:02"
         }
     },
-    "cumulative_projected_value": 4710.0,
-    "last_prediction_cycle": "2026-06-05 00:00:02"
+    "cumulative_projected_value": 4890.0,
+    "last_prediction_cycle": "2026-06-06 00:00:02"
 }
