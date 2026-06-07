@@ -623,8 +623,38 @@
             "file": "production_sites/athletics-vs-astros.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-06 00:00:02"
+        },
+        "hurricanes-vs-golden-knights": {
+            "keyword": "hurricanes vs golden knights",
+            "file": "production_sites/hurricanes-vs-golden-knights.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-07 00:00:01"
+        },
+        "auburn-baseball-score": {
+            "keyword": "auburn baseball score",
+            "file": "production_sites/auburn-baseball-score.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-07 00:00:01"
+        },
+        "ufc-freedom-250": {
+            "keyword": "ufc freedom 250",
+            "file": "production_sites/ufc-freedom-250.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-07 00:00:01"
+        },
+        "office-romance-movie": {
+            "keyword": "office romance movie",
+            "file": "production_sites/office-romance-movie.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-07 00:00:01"
+        },
+        "yankees-game-today": {
+            "keyword": "yankees game today",
+            "file": "production_sites/yankees-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-07 00:00:01"
         }
     },
-    "cumulative_projected_value": 4890.0,
-    "last_prediction_cycle": "2026-06-06 00:00:02"
+    "cumulative_projected_value": 5115.0,
+    "last_prediction_cycle": "2026-06-07 00:00:01"
 }
