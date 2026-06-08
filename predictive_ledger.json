@@ -653,8 +653,32 @@
             "file": "production_sites/yankees-game-today.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-07 00:00:01"
+        },
+        "knicks-spurs-game-3": {
+            "keyword": "knicks spurs game 3",
+            "file": "production_sites/knicks-spurs-game-3.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-08 00:00:02"
+        },
+        "indy-car-race-today": {
+            "keyword": "indy car race today",
+            "file": "production_sites/indy-car-race-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-08 00:00:02"
+        },
+        "cubs-vs-giants-prediction": {
+            "keyword": "cubs vs giants prediction",
+            "file": "production_sites/cubs-vs-giants-prediction.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-08 00:00:02"
+        },
+        "jennifer-kupcho": {
+            "keyword": "jennifer kupcho",
+            "file": "production_sites/jennifer-kupcho.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-08 00:00:02"
         }
     },
-    "cumulative_projected_value": 5115.0,
-    "last_prediction_cycle": "2026-06-07 00:00:01"
+    "cumulative_projected_value": 5295.0,
+    "last_prediction_cycle": "2026-06-08 00:00:02"
 }
