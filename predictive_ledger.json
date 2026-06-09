@@ -677,8 +677,38 @@
             "file": "production_sites/jennifer-kupcho.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-08 00:00:02"
+        },
+        "peru-vs-espa\u00f1a": {
+            "keyword": "peru vs espa\u00f1a",
+            "file": "production_sites/peru-vs-espa\u00f1a.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-09 00:00:01"
+        },
+        "where-can-i-watch-the-knicks-game-tonight": {
+            "keyword": "where can i watch the knicks game tonight",
+            "file": "production_sites/where-can-i-watch-the-knicks-game-tonight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-09 00:00:01"
+        },
+        "telemundo-vota": {
+            "keyword": "telemundo vota",
+            "file": "production_sites/telemundo-vota.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-09 00:00:01"
+        },
+        "joshua-jackson": {
+            "keyword": "joshua jackson",
+            "file": "production_sites/joshua-jackson.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-09 00:00:01"
+        },
+        "patrick-ewing": {
+            "keyword": "patrick ewing",
+            "file": "production_sites/patrick-ewing.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-09 00:00:01"
         }
     },
-    "cumulative_projected_value": 5295.0,
-    "last_prediction_cycle": "2026-06-08 00:00:02"
+    "cumulative_projected_value": 5520.0,
+    "last_prediction_cycle": "2026-06-09 00:00:01"
 }
