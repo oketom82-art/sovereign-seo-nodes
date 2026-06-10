@@ -707,8 +707,38 @@
             "file": "production_sites/patrick-ewing.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-09 00:00:01"
+        },
+        "hockey-game-tonight": {
+            "keyword": "hockey game tonight",
+            "file": "production_sites/hockey-game-tonight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-10 00:00:02"
+        },
+        "house-republicans-immigration-package": {
+            "keyword": "house republicans immigration package",
+            "file": "production_sites/house-republicans-immigration-package.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-10 00:00:02"
+        },
+        "wings-vs-lynx": {
+            "keyword": "wings vs lynx",
+            "file": "production_sites/wings-vs-lynx.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-10 00:00:02"
+        },
+        "skylar-diggins": {
+            "keyword": "skylar diggins",
+            "file": "production_sites/skylar-diggins.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-10 00:00:02"
+        },
+        "davis-wendzel": {
+            "keyword": "davis wendzel",
+            "file": "production_sites/davis-wendzel.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-10 00:00:02"
         }
     },
-    "cumulative_projected_value": 5520.0,
-    "last_prediction_cycle": "2026-06-09 00:00:01"
+    "cumulative_projected_value": 5745.0,
+    "last_prediction_cycle": "2026-06-10 00:00:02"
 }
