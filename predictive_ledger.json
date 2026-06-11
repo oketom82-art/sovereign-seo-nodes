@@ -737,8 +737,32 @@
             "file": "production_sites/davis-wendzel.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-10 00:00:02"
+        },
+        "what-time-is-the-knicks-game-tonight": {
+            "keyword": "what time is the knicks game tonight",
+            "file": "production_sites/what-time-is-the-knicks-game-tonight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-11 00:00:02"
+        },
+        "anti-weaponization-fund-judge-ruling": {
+            "keyword": "anti-weaponization fund judge ruling",
+            "file": "production_sites/anti-weaponization-fund-judge-ruling.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-11 00:00:02"
+        },
+        "charles-barkley-cardi-b-comment": {
+            "keyword": "charles barkley cardi b comment",
+            "file": "production_sites/charles-barkley-cardi-b-comment.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-11 00:00:02"
+        },
+        "usa-world-cup-schedule": {
+            "keyword": "usa world cup schedule",
+            "file": "production_sites/usa-world-cup-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-11 00:00:02"
         }
     },
-    "cumulative_projected_value": 5745.0,
-    "last_prediction_cycle": "2026-06-10 00:00:02"
+    "cumulative_projected_value": 5925.0,
+    "last_prediction_cycle": "2026-06-11 00:00:02"
 }
