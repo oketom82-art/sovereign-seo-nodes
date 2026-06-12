@@ -761,8 +761,32 @@
             "file": "production_sites/usa-world-cup-schedule.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-11 00:00:02"
+        },
+        "state-impact-social-security-projections": {
+            "keyword": "state impact social security projections",
+            "file": "production_sites/state-impact-social-security-projections.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-12 00:00:02"
+        },
+        "millie-bobby-brown": {
+            "keyword": "millie bobby brown",
+            "file": "production_sites/millie-bobby-brown.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-12 00:00:02"
+        },
+        "kamilla-cardoso": {
+            "keyword": "kamilla cardoso",
+            "file": "production_sites/kamilla-cardoso.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-12 00:00:02"
+        },
+        "tornado-kenosha": {
+            "keyword": "tornado kenosha",
+            "file": "production_sites/tornado-kenosha.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-12 00:00:02"
         }
     },
-    "cumulative_projected_value": 5925.0,
-    "last_prediction_cycle": "2026-06-11 00:00:02"
+    "cumulative_projected_value": 6210.0,
+    "last_prediction_cycle": "2026-06-12 00:00:02"
 }
