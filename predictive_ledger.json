@@ -785,8 +785,38 @@
             "file": "production_sites/tornado-kenosha.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-12 00:00:02"
+        },
+        "airline-shutdown": {
+            "keyword": "airline shutdown",
+            "file": "production_sites/airline-shutdown.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-13 00:00:01"
+        },
+        "who-is-performing-at-the-world-cup-2026": {
+            "keyword": "who is performing at the world cup 2026",
+            "file": "production_sites/who-is-performing-at-the-world-cup-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-13 00:00:01"
+        },
+        "amber-alert-utah": {
+            "keyword": "amber alert utah",
+            "file": "production_sites/amber-alert-utah.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-13 00:00:01"
+        },
+        "melinda-french-gates": {
+            "keyword": "melinda french gates",
+            "file": "production_sites/melinda-french-gates.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-13 00:00:01"
+        },
+        "tyla": {
+            "keyword": "tyla",
+            "file": "production_sites/tyla.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-13 00:00:01"
         }
     },
-    "cumulative_projected_value": 6210.0,
-    "last_prediction_cycle": "2026-06-12 00:00:02"
+    "cumulative_projected_value": 6540.0,
+    "last_prediction_cycle": "2026-06-13 00:00:01"
 }
