@@ -815,8 +815,38 @@
             "file": "production_sites/tyla.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-13 00:00:01"
+        },
+        "how-many-subs-in-world-cup": {
+            "keyword": "how many subs in world cup",
+            "file": "production_sites/how-many-subs-in-world-cup.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-14 00:00:01"
+        },
+        "zidane": {
+            "keyword": "zidane",
+            "file": "production_sites/zidane.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-14 00:00:01"
+        },
+        "bono": {
+            "keyword": "bono",
+            "file": "production_sites/bono.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-14 00:00:01"
+        },
+        "zinedine-zidane": {
+            "keyword": "zinedine zidane",
+            "file": "production_sites/zinedine-zidane.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-14 00:00:01"
+        },
+        "ms-rachel": {
+            "keyword": "ms rachel",
+            "file": "production_sites/ms-rachel.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-14 00:00:01"
         }
     },
-    "cumulative_projected_value": 6540.0,
-    "last_prediction_cycle": "2026-06-13 00:00:01"
+    "cumulative_projected_value": 6765.0,
+    "last_prediction_cycle": "2026-06-14 00:00:01"
 }
