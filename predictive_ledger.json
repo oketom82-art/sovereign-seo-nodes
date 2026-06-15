@@ -845,8 +845,38 @@
             "file": "production_sites/ms-rachel.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-14 00:00:01"
+        },
+        "donald-trump-nbc-poll": {
+            "keyword": "donald trump nbc poll",
+            "file": "production_sites/donald-trump-nbc-poll.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-15 00:00:01"
+        },
+        "west-virginia-baseball": {
+            "keyword": "west virginia baseball",
+            "file": "production_sites/west-virginia-baseball.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-15 00:00:01"
+        },
+        "connelly-early": {
+            "keyword": "connelly early",
+            "file": "production_sites/connelly-early.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-15 00:00:01"
+        },
+        "franck-kessie": {
+            "keyword": "franck kessie",
+            "file": "production_sites/franck-kessie.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-15 00:00:01"
+        },
+        "pepe": {
+            "keyword": "pepe",
+            "file": "production_sites/pepe.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-15 00:00:01"
         }
     },
-    "cumulative_projected_value": 6765.0,
-    "last_prediction_cycle": "2026-06-14 00:00:01"
+    "cumulative_projected_value": 6990.0,
+    "last_prediction_cycle": "2026-06-15 00:00:01"
 }
