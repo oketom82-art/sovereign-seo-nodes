@@ -875,8 +875,38 @@
             "file": "production_sites/pepe.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-15 00:00:01"
+        },
+        "mortgage-news-daily": {
+            "keyword": "mortgage news daily",
+            "file": "production_sites/mortgage-news-daily.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-16 00:00:02"
+        },
+        "caitlin-clark-indiana-fever-elimination": {
+            "keyword": "caitlin clark indiana fever elimination",
+            "file": "production_sites/caitlin-clark-indiana-fever-elimination.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-16 00:00:02"
+        },
+        "georgia-vs-oklahoma-baseball": {
+            "keyword": "georgia vs oklahoma baseball",
+            "file": "production_sites/georgia-vs-oklahoma-baseball.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-16 00:00:02"
+        },
+        "fire-near-me": {
+            "keyword": "fire near me",
+            "file": "production_sites/fire-near-me.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-16 00:00:02"
+        },
+        "mens-college-world-series": {
+            "keyword": "mens college world series",
+            "file": "production_sites/mens-college-world-series.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-16 00:00:02"
         }
     },
-    "cumulative_projected_value": 6990.0,
-    "last_prediction_cycle": "2026-06-15 00:00:01"
+    "cumulative_projected_value": 7425.0,
+    "last_prediction_cycle": "2026-06-16 00:00:02"
 }
