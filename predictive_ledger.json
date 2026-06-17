@@ -905,8 +905,38 @@
             "file": "production_sites/mens-college-world-series.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-16 00:00:02"
+        },
+        "georgia-elections-2026": {
+            "keyword": "georgia elections 2026",
+            "file": "production_sites/georgia-elections-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-17 00:00:02"
+        },
+        "janeese-lewis-george": {
+            "keyword": "janeese lewis george",
+            "file": "production_sites/janeese-lewis-george.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-17 00:00:02"
+        },
+        "colombia-vs-uzbekistan": {
+            "keyword": "colombia vs uzbekistan",
+            "file": "production_sites/colombia-vs-uzbekistan.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-17 00:00:02"
+        },
+        "spencer-jones": {
+            "keyword": "spencer jones",
+            "file": "production_sites/spencer-jones.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-17 00:00:02"
+        },
+        "drake-baldwin": {
+            "keyword": "drake baldwin",
+            "file": "production_sites/drake-baldwin.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-17 00:00:02"
         }
     },
-    "cumulative_projected_value": 7425.0,
-    "last_prediction_cycle": "2026-06-16 00:00:02"
+    "cumulative_projected_value": 7650.0,
+    "last_prediction_cycle": "2026-06-17 00:00:02"
 }
