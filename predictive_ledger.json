@@ -935,8 +935,32 @@
             "file": "production_sites/drake-baldwin.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-17 00:00:02"
+        },
+        "outlast-the-jungle": {
+            "keyword": "outlast the jungle",
+            "file": "production_sites/outlast-the-jungle.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-18 00:00:01"
+        },
+        "widows-bay-season-2": {
+            "keyword": "widows bay season 2",
+            "file": "production_sites/widows-bay-season-2.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-18 00:00:01"
+        },
+        "are-the-knicks-going-to-the-white-house": {
+            "keyword": "are the knicks going to the white house",
+            "file": "production_sites/are-the-knicks-going-to-the-white-house.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-18 00:00:01"
+        },
+        "cody-bellinger": {
+            "keyword": "cody bellinger",
+            "file": "production_sites/cody-bellinger.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-18 00:00:01"
         }
     },
-    "cumulative_projected_value": 7650.0,
-    "last_prediction_cycle": "2026-06-17 00:00:02"
+    "cumulative_projected_value": 7830.0,
+    "last_prediction_cycle": "2026-06-18 00:00:01"
 }
