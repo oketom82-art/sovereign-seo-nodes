@@ -959,8 +959,38 @@
             "file": "production_sites/cody-bellinger.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-18 00:00:01"
+        },
+        "caitlin-clark-shoes": {
+            "keyword": "caitlin clark shoes",
+            "file": "production_sites/caitlin-clark-shoes.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-19 00:00:01"
+        },
+        "shai-gilgeous-alexander": {
+            "keyword": "shai gilgeous-alexander",
+            "file": "production_sites/shai-gilgeous-alexander.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-19 00:00:01"
+        },
+        "scotland-vs-morocco": {
+            "keyword": "scotland vs morocco",
+            "file": "production_sites/scotland-vs-morocco.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-19 00:00:01"
+        },
+        "kyle-cooke-summer-house-departure": {
+            "keyword": "kyle cooke summer house departure",
+            "file": "production_sites/kyle-cooke-summer-house-departure.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-19 00:00:01"
+        },
+        "gwen-stefani": {
+            "keyword": "gwen stefani",
+            "file": "production_sites/gwen-stefani.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-19 00:00:01"
         }
     },
-    "cumulative_projected_value": 7830.0,
-    "last_prediction_cycle": "2026-06-18 00:00:01"
+    "cumulative_projected_value": 8265.0,
+    "last_prediction_cycle": "2026-06-19 00:00:01"
 }
