@@ -989,8 +989,38 @@
             "file": "production_sites/gwen-stefani.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-19 00:00:01"
+        },
+        "brasil---hait\u00ed": {
+            "keyword": "brasil - hait\u00ed",
+            "file": "production_sites/brasil---hait\u00ed.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-20 00:00:02"
+        },
+        "br\u00e9sil-\u2013-ha\u00efti": {
+            "keyword": "br\u00e9sil \u2013 ha\u00efti",
+            "file": "production_sites/br\u00e9sil-\u2013-ha\u00efti.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-20 00:00:02"
+        },
+        "guardians-vs-astros": {
+            "keyword": "guardians vs astros",
+            "file": "production_sites/guardians-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-20 00:00:02"
+        },
+        "padres-vs-rangers": {
+            "keyword": "padres vs rangers",
+            "file": "production_sites/padres-vs-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-20 00:00:02"
+        },
+        "regina-hall": {
+            "keyword": "regina hall",
+            "file": "production_sites/regina-hall.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-20 00:00:02"
         }
     },
-    "cumulative_projected_value": 8265.0,
-    "last_prediction_cycle": "2026-06-19 00:00:01"
+    "cumulative_projected_value": 8595.0,
+    "last_prediction_cycle": "2026-06-20 00:00:02"
 }
