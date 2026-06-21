@@ -1019,8 +1019,38 @@
             "file": "production_sites/regina-hall.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-20 00:00:02"
+        },
+        "lainey-wilson": {
+            "keyword": "lainey wilson",
+            "file": "production_sites/lainey-wilson.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-21 00:00:01"
+        },
+        "house-of-dragon-season-3-release-date": {
+            "keyword": "house of dragon season 3 release date",
+            "file": "production_sites/house-of-dragon-season-3-release-date.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-21 00:00:01"
+        },
+        "astros-game-today": {
+            "keyword": "astros game today",
+            "file": "production_sites/astros-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-21 00:00:01"
+        },
+        "sky-vs-wings": {
+            "keyword": "sky vs wings",
+            "file": "production_sites/sky-vs-wings.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-21 00:00:01"
+        },
+        "ecuador-vs": {
+            "keyword": "ecuador vs",
+            "file": "production_sites/ecuador-vs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-21 00:00:01"
         }
     },
-    "cumulative_projected_value": 8595.0,
-    "last_prediction_cycle": "2026-06-20 00:00:02"
+    "cumulative_projected_value": 8925.0,
+    "last_prediction_cycle": "2026-06-21 00:00:01"
 }
