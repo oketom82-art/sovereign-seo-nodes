@@ -1049,8 +1049,38 @@
             "file": "production_sites/ecuador-vs.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-21 00:00:01"
+        },
+        "mets-vs-phillies": {
+            "keyword": "mets vs phillies",
+            "file": "production_sites/mets-vs-phillies.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-22 00:00:02"
+        },
+        "liberty-vs-sparks": {
+            "keyword": "liberty vs sparks",
+            "file": "production_sites/liberty-vs-sparks.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-22 00:00:02"
+        },
+        "the-agency-season-2": {
+            "keyword": "the agency season 2",
+            "file": "production_sites/the-agency-season-2.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-22 00:00:02"
+        },
+        "dune-3": {
+            "keyword": "dune 3",
+            "file": "production_sites/dune-3.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-22 00:00:02"
+        },
+        "brandon-marsh": {
+            "keyword": "brandon marsh",
+            "file": "production_sites/brandon-marsh.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-22 00:00:02"
         }
     },
-    "cumulative_projected_value": 8925.0,
-    "last_prediction_cycle": "2026-06-21 00:00:01"
+    "cumulative_projected_value": 9150.0,
+    "last_prediction_cycle": "2026-06-22 00:00:02"
 }
