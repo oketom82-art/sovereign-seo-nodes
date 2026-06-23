@@ -1079,8 +1079,32 @@
             "file": "production_sites/brandon-marsh.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-22 00:00:02"
+        },
+        "power-plate-meals-usda-recall": {
+            "keyword": "power plate meals usda recall",
+            "file": "production_sites/power-plate-meals-usda-recall.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-23 00:00:02"
+        },
+        "phillies-game-today": {
+            "keyword": "phillies game today",
+            "file": "production_sites/phillies-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-23 00:00:02"
+        },
+        "jimmy-awards-2026": {
+            "keyword": "jimmy awards 2026",
+            "file": "production_sites/jimmy-awards-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-23 00:00:02"
+        },
+        "disney-youtube-tv-class-action": {
+            "keyword": "disney youtube tv class action",
+            "file": "production_sites/disney-youtube-tv-class-action.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-23 00:00:02"
         }
     },
-    "cumulative_projected_value": 9150.0,
-    "last_prediction_cycle": "2026-06-22 00:00:02"
+    "cumulative_projected_value": 9330.0,
+    "last_prediction_cycle": "2026-06-23 00:00:02"
 }
