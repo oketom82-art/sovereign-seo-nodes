@@ -1103,8 +1103,38 @@
             "file": "production_sites/disney-youtube-tv-class-action.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-23 00:00:02"
+        },
+        "stuart-fails-to-save-the-universe": {
+            "keyword": "stuart fails to save the universe",
+            "file": "production_sites/stuart-fails-to-save-the-universe.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-24 00:00:01"
+        },
+        "ice-warehouse-detention-lawsuits": {
+            "keyword": "ice warehouse detention lawsuits",
+            "file": "production_sites/ice-warehouse-detention-lawsuits.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-24 00:00:01"
+        },
+        "rangers-vs-marlins": {
+            "keyword": "rangers vs marlins",
+            "file": "production_sites/rangers-vs-marlins.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-24 00:00:01"
+        },
+        "panam\u00e1---croacia": {
+            "keyword": "panam\u00e1 - croacia",
+            "file": "production_sites/panam\u00e1---croacia.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-24 00:00:01"
+        },
+        "jaylen-brown-trade-rumors": {
+            "keyword": "jaylen brown trade rumors",
+            "file": "production_sites/jaylen-brown-trade-rumors.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-24 00:00:01"
         }
     },
-    "cumulative_projected_value": 9330.0,
-    "last_prediction_cycle": "2026-06-23 00:00:02"
+    "cumulative_projected_value": 9660.0,
+    "last_prediction_cycle": "2026-06-24 00:00:01"
 }
