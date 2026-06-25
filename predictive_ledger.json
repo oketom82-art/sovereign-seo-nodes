@@ -1133,8 +1133,38 @@
             "file": "production_sites/jaylen-brown-trade-rumors.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-24 00:00:01"
+        },
+        "usps-proposed-mail-ballot-rule": {
+            "keyword": "usps proposed mail ballot rule",
+            "file": "production_sites/usps-proposed-mail-ballot-rule.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-25 00:00:02"
+        },
+        "ecuador-vs-germany": {
+            "keyword": "ecuador vs germany",
+            "file": "production_sites/ecuador-vs-germany.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-25 00:00:02"
+        },
+        "mercury-vs-fever": {
+            "keyword": "mercury vs fever",
+            "file": "production_sites/mercury-vs-fever.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-25 00:00:02"
+        },
+        "lynx-vs-mystics": {
+            "keyword": "lynx vs mystics",
+            "file": "production_sites/lynx-vs-mystics.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-25 00:00:02"
+        },
+        "turkiye-vs-turkey": {
+            "keyword": "turkiye vs turkey",
+            "file": "production_sites/turkiye-vs-turkey.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-25 00:00:02"
         }
     },
-    "cumulative_projected_value": 9660.0,
-    "last_prediction_cycle": "2026-06-24 00:00:01"
+    "cumulative_projected_value": 9990.0,
+    "last_prediction_cycle": "2026-06-25 00:00:02"
 }
