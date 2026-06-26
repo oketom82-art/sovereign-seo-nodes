@@ -1163,8 +1163,38 @@
             "file": "production_sites/turkiye-vs-turkey.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-25 00:00:02"
+        },
+        "cma-fest-2026": {
+            "keyword": "cma fest 2026",
+            "file": "production_sites/cma-fest-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-26 00:00:02"
+        },
+        "clarence-house-london": {
+            "keyword": "clarence house london",
+            "file": "production_sites/clarence-house-london.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-26 00:00:02"
+        },
+        "nhl-draft-2026": {
+            "keyword": "nhl draft 2026",
+            "file": "production_sites/nhl-draft-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-26 00:00:02"
+        },
+        "lucas-bergvall": {
+            "keyword": "lucas bergvall",
+            "file": "production_sites/lucas-bergvall.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-26 00:00:02"
+        },
+        "gregg-phillips": {
+            "keyword": "gregg phillips",
+            "file": "production_sites/gregg-phillips.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-26 00:00:02"
         }
     },
-    "cumulative_projected_value": 9990.0,
-    "last_prediction_cycle": "2026-06-25 00:00:02"
+    "cumulative_projected_value": 10215.0,
+    "last_prediction_cycle": "2026-06-26 00:00:02"
 }
