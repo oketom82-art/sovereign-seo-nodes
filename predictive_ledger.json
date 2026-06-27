@@ -1193,8 +1193,38 @@
             "file": "production_sites/gregg-phillips.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-26 00:00:02"
+        },
+        "marlins-vs-cardinals": {
+            "keyword": "marlins vs cardinals",
+            "file": "production_sites/marlins-vs-cardinals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-27 00:00:02"
+        },
+        "rockies-vs-twins": {
+            "keyword": "rockies vs twins",
+            "file": "production_sites/rockies-vs-twins.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-27 00:00:02"
+        },
+        "mystics-vs-sun": {
+            "keyword": "mystics vs sun",
+            "file": "production_sites/mystics-vs-sun.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-27 00:00:02"
+        },
+        "uruguay---espa\u00f1a": {
+            "keyword": "uruguay - espa\u00f1a",
+            "file": "production_sites/uruguay---espa\u00f1a.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-27 00:00:02"
+        },
+        "daxon-rudolph": {
+            "keyword": "daxon rudolph",
+            "file": "production_sites/daxon-rudolph.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-27 00:00:02"
         }
     },
-    "cumulative_projected_value": 10215.0,
-    "last_prediction_cycle": "2026-06-26 00:00:02"
+    "cumulative_projected_value": 10440.0,
+    "last_prediction_cycle": "2026-06-27 00:00:02"
 }
