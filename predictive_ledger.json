@@ -1223,8 +1223,38 @@
             "file": "production_sites/daxon-rudolph.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-27 00:00:02"
+        },
+        "cristiano-ronaldo-wife": {
+            "keyword": "cristiano ronaldo wife",
+            "file": "production_sites/cristiano-ronaldo-wife.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-28 00:00:01"
+        },
+        "colombie-\u2013-portugal": {
+            "keyword": "colombie \u2013 portugal",
+            "file": "production_sites/colombie-\u2013-portugal.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-28 00:00:01"
+        },
+        "sparks-vs-fever": {
+            "keyword": "sparks vs fever",
+            "file": "production_sites/sparks-vs-fever.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-28 00:00:01"
+        },
+        "posiciones-de-selecci\u00f3n-de-f\u00fatbol-de-croacia-contra-selecci\u00f3n-de-f\u00fatbol-de-ghana": {
+            "keyword": "posiciones de selecci\u00f3n de f\u00fatbol de croacia contra selecci\u00f3n de f\u00fatbol de ghana",
+            "file": "production_sites/posiciones-de-selecci\u00f3n-de-f\u00fatbol-de-croacia-contra-selecci\u00f3n-de-f\u00fatbol-de-ghana.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-28 00:00:01"
+        },
+        "marco-rubio": {
+            "keyword": "marco rubio",
+            "file": "production_sites/marco-rubio.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-28 00:00:01"
         }
     },
-    "cumulative_projected_value": 10440.0,
-    "last_prediction_cycle": "2026-06-27 00:00:02"
+    "cumulative_projected_value": 10665.0,
+    "last_prediction_cycle": "2026-06-28 00:00:01"
 }
