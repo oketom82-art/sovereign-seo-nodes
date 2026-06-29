@@ -1253,8 +1253,38 @@
             "file": "production_sites/marco-rubio.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-28 00:00:01"
+        },
+        "u.s.-department-of-homeland-security": {
+            "keyword": "u.s. department of homeland security",
+            "file": "production_sites/u.s.-department-of-homeland-security.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-06-29 00:00:01"
+        },
+        "yankees-vs-red-sox": {
+            "keyword": "yankees vs red sox",
+            "file": "production_sites/yankees-vs-red-sox.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-29 00:00:01"
+        },
+        "is-doordash-down": {
+            "keyword": "is doordash down",
+            "file": "production_sites/is-doordash-down.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-29 00:00:01"
+        },
+        "nxt-great-american-bash-2026": {
+            "keyword": "nxt great american bash 2026",
+            "file": "production_sites/nxt-great-american-bash-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-29 00:00:01"
+        },
+        "gabby-williams": {
+            "keyword": "gabby williams",
+            "file": "production_sites/gabby-williams.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-29 00:00:01"
         }
     },
-    "cumulative_projected_value": 10665.0,
-    "last_prediction_cycle": "2026-06-28 00:00:01"
+    "cumulative_projected_value": 10995.0,
+    "last_prediction_cycle": "2026-06-29 00:00:01"
 }
