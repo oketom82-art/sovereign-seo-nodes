@@ -1283,8 +1283,38 @@
             "file": "production_sites/gabby-williams.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-29 00:00:01"
+        },
+        "world-cup-bracket-2026": {
+            "keyword": "world cup bracket 2026",
+            "file": "production_sites/world-cup-bracket-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-30 00:00:02"
+        },
+        "twins-vs-astros": {
+            "keyword": "twins vs astros",
+            "file": "production_sites/twins-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-30 00:00:02"
+        },
+        "world-cup-winners": {
+            "keyword": "world cup winners",
+            "file": "production_sites/world-cup-winners.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-30 00:00:02"
+        },
+        "padres-vs-cubs": {
+            "keyword": "padres vs cubs",
+            "file": "production_sites/padres-vs-cubs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-30 00:00:02"
+        },
+        "pima-county-sheriff's-department": {
+            "keyword": "pima county sheriff's department",
+            "file": "production_sites/pima-county-sheriff's-department.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-06-30 00:00:02"
         }
     },
-    "cumulative_projected_value": 10995.0,
-    "last_prediction_cycle": "2026-06-29 00:00:01"
+    "cumulative_projected_value": 11220.0,
+    "last_prediction_cycle": "2026-06-30 00:00:02"
 }
