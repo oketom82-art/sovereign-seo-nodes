@@ -1313,8 +1313,32 @@
             "file": "production_sites/pima-county-sheriff's-department.html",
             "payout_tier": 45.0,
             "generated_at": "2026-06-30 00:00:02"
+        },
+        "mets---blue-jays": {
+            "keyword": "mets - blue jays",
+            "file": "production_sites/mets---blue-jays.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-01 00:00:02"
+        },
+        "rays-vs-royals": {
+            "keyword": "rays vs royals",
+            "file": "production_sites/rays-vs-royals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-01 00:00:02"
+        },
+        "a-qu\u00e9-hora-juega-m\u00e9xico": {
+            "keyword": "a qu\u00e9 hora juega m\u00e9xico",
+            "file": "production_sites/a-qu\u00e9-hora-juega-m\u00e9xico.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-01 00:00:02"
+        },
+        "united-states-midterm-election": {
+            "keyword": "united states midterm election",
+            "file": "production_sites/united-states-midterm-election.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-01 00:00:02"
         }
     },
-    "cumulative_projected_value": 11220.0,
-    "last_prediction_cycle": "2026-06-30 00:00:02"
+    "cumulative_projected_value": 11400.0,
+    "last_prediction_cycle": "2026-07-01 00:00:02"
 }
