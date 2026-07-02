@@ -1337,8 +1337,38 @@
             "file": "production_sites/united-states-midterm-election.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-01 00:00:02"
+        },
+        "estados-unidos---bosnia-y-herzegovina": {
+            "keyword": "estados unidos - bosnia y herzegovina",
+            "file": "production_sites/estados-unidos---bosnia-y-herzegovina.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-02 00:00:02"
+        },
+        "portugal-vs-croatia": {
+            "keyword": "portugal vs croatia",
+            "file": "production_sites/portugal-vs-croatia.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-02 00:00:02"
+        },
+        "reese-witherspoon": {
+            "keyword": "reese witherspoon",
+            "file": "production_sites/reese-witherspoon.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-02 00:00:02"
+        },
+        "landon-donovan": {
+            "keyword": "landon donovan",
+            "file": "production_sites/landon-donovan.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-02 00:00:02"
+        },
+        "santi-aldama": {
+            "keyword": "santi aldama",
+            "file": "production_sites/santi-aldama.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-02 00:00:02"
         }
     },
-    "cumulative_projected_value": 11400.0,
-    "last_prediction_cycle": "2026-07-01 00:00:02"
+    "cumulative_projected_value": 11625.0,
+    "last_prediction_cycle": "2026-07-02 00:00:02"
 }
