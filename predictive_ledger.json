@@ -1367,8 +1367,32 @@
             "file": "production_sites/santi-aldama.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-02 00:00:02"
+        },
+        "wings-vs-sun": {
+            "keyword": "wings vs sun",
+            "file": "production_sites/wings-vs-sun.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-03 00:00:02"
+        },
+        "tigers-vs-rangers": {
+            "keyword": "tigers vs rangers",
+            "file": "production_sites/tigers-vs-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-03 00:00:02"
+        },
+        "dream-vs-mystics": {
+            "keyword": "dream vs mystics",
+            "file": "production_sites/dream-vs-mystics.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-03 00:00:02"
+        },
+        "bruno-fernandes": {
+            "keyword": "bruno fernandes",
+            "file": "production_sites/bruno-fernandes.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-03 00:00:02"
         }
     },
-    "cumulative_projected_value": 11625.0,
-    "last_prediction_cycle": "2026-07-02 00:00:02"
+    "cumulative_projected_value": 11805.0,
+    "last_prediction_cycle": "2026-07-03 00:00:02"
 }
