@@ -1391,8 +1391,38 @@
             "file": "production_sites/bruno-fernandes.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-03 00:00:02"
+        },
+        "rays-vs-astros": {
+            "keyword": "rays vs astros",
+            "file": "production_sites/rays-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-04 00:00:01"
+        },
+        "giants-vs-rockies": {
+            "keyword": "giants vs rockies",
+            "file": "production_sites/giants-vs-rockies.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-04 00:00:01"
+        },
+        "dominican-republic-vs-usa": {
+            "keyword": "dominican republic vs usa",
+            "file": "production_sites/dominican-republic-vs-usa.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-04 00:00:01"
+        },
+        "france-vs-paraguay": {
+            "keyword": "france vs paraguay",
+            "file": "production_sites/france-vs-paraguay.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-04 00:00:01"
+        },
+        "julian-alvarez": {
+            "keyword": "julian alvarez",
+            "file": "production_sites/julian-alvarez.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-04 00:00:01"
         }
     },
-    "cumulative_projected_value": 11805.0,
-    "last_prediction_cycle": "2026-07-03 00:00:02"
+    "cumulative_projected_value": 12030.0,
+    "last_prediction_cycle": "2026-07-04 00:00:01"
 }
