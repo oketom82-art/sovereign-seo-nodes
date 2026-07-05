@@ -1421,8 +1421,38 @@
             "file": "production_sites/julian-alvarez.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-04 00:00:01"
+        },
+        "new-air-force-one": {
+            "keyword": "new air force one",
+            "file": "production_sites/new-air-force-one.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-07-05 00:00:01"
+        },
+        "mlb-all-star-game-2026-roster": {
+            "keyword": "mlb all star game 2026 roster",
+            "file": "production_sites/mlb-all-star-game-2026-roster.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-05 00:00:01"
+        },
+        "fifa-games-today": {
+            "keyword": "fifa games today",
+            "file": "production_sites/fifa-games-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-05 00:00:01"
+        },
+        "ppl-power-outage": {
+            "keyword": "ppl power outage",
+            "file": "production_sites/ppl-power-outage.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-05 00:00:01"
+        },
+        "junior-caminero": {
+            "keyword": "junior caminero",
+            "file": "production_sites/junior-caminero.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-05 00:00:01"
         }
     },
-    "cumulative_projected_value": 12030.0,
-    "last_prediction_cycle": "2026-07-04 00:00:01"
+    "cumulative_projected_value": 12360.0,
+    "last_prediction_cycle": "2026-07-05 00:00:01"
 }
