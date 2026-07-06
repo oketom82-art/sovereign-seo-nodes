@@ -1451,8 +1451,38 @@
             "file": "production_sites/junior-caminero.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-05 00:00:01"
+        },
+        "what-time-does-house-of-the-dragon-air": {
+            "keyword": "what time does house of the dragon air",
+            "file": "production_sites/what-time-does-house-of-the-dragon-air.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-07-06 00:00:02"
+        },
+        "ohio-horror-house": {
+            "keyword": "ohio horror house",
+            "file": "production_sites/ohio-horror-house.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-06 00:00:02"
+        },
+        "m\u00e9xico---inglaterra": {
+            "keyword": "m\u00e9xico - inglaterra",
+            "file": "production_sites/m\u00e9xico---inglaterra.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-06 00:00:02"
+        },
+        "lionel-richie-concerts-postponed": {
+            "keyword": "lionel richie concerts postponed",
+            "file": "production_sites/lionel-richie-concerts-postponed.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-06 00:00:02"
+        },
+        "marlins": {
+            "keyword": "marlins",
+            "file": "production_sites/marlins.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-06 00:00:02"
         }
     },
-    "cumulative_projected_value": 12360.0,
-    "last_prediction_cycle": "2026-07-05 00:00:01"
+    "cumulative_projected_value": 12690.0,
+    "last_prediction_cycle": "2026-07-06 00:00:02"
 }
