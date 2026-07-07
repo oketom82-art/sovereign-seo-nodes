@@ -1481,8 +1481,38 @@
             "file": "production_sites/marlins.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-06 00:00:02"
+        },
+        "kevin-de-bruyne": {
+            "keyword": "kevin de bruyne",
+            "file": "production_sites/kevin-de-bruyne.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-07 00:00:02"
+        },
+        "sun-vs-lynx": {
+            "keyword": "sun vs lynx",
+            "file": "production_sites/sun-vs-lynx.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-07 00:00:02"
+        },
+        "estados-unidos---b\u00e9lgica": {
+            "keyword": "estados unidos - b\u00e9lgica",
+            "file": "production_sites/estados-unidos---b\u00e9lgica.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-07 00:00:02"
+        },
+        "lukaku": {
+            "keyword": "lukaku",
+            "file": "production_sites/lukaku.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-07 00:00:02"
+        },
+        "twitch": {
+            "keyword": "twitch",
+            "file": "production_sites/twitch.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-07 00:00:02"
         }
     },
-    "cumulative_projected_value": 12690.0,
-    "last_prediction_cycle": "2026-07-06 00:00:02"
+    "cumulative_projected_value": 12915.0,
+    "last_prediction_cycle": "2026-07-07 00:00:02"
 }
