@@ -1511,8 +1511,38 @@
             "file": "production_sites/twitch.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-07 00:00:02"
+        },
+        "world-cup-games-tomorrow": {
+            "keyword": "world cup games tomorrow",
+            "file": "production_sites/world-cup-games-tomorrow.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-08 00:00:02"
+        },
+        "club-de-f\u00fatbol-cruz-azul": {
+            "keyword": "club de f\u00fatbol cruz azul",
+            "file": "production_sites/club-de-f\u00fatbol-cruz-azul.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-08 00:00:02"
+        },
+        "mexico-vs-rsa": {
+            "keyword": "mexico vs rsa",
+            "file": "production_sites/mexico-vs-rsa.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-08 00:00:02"
+        },
+        "wings-vs-liberty": {
+            "keyword": "wings vs liberty",
+            "file": "production_sites/wings-vs-liberty.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-08 00:00:02"
+        },
+        "cuartos-de-final-mundial-2026": {
+            "keyword": "cuartos de final mundial 2026",
+            "file": "production_sites/cuartos-de-final-mundial-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-08 00:00:02"
         }
     },
-    "cumulative_projected_value": 12915.0,
-    "last_prediction_cycle": "2026-07-07 00:00:02"
+    "cumulative_projected_value": 13140.0,
+    "last_prediction_cycle": "2026-07-08 00:00:02"
 }
