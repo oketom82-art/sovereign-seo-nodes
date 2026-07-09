@@ -1541,8 +1541,26 @@
             "file": "production_sites/cuartos-de-final-mundial-2026.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-08 00:00:02"
+        },
+        "royals---mets": {
+            "keyword": "royals - mets",
+            "file": "production_sites/royals---mets.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-09 00:00:01"
+        },
+        "angel": {
+            "keyword": "angel",
+            "file": "production_sites/angel.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-09 00:00:01"
+        },
+        "kris-jenner": {
+            "keyword": "kris jenner",
+            "file": "production_sites/kris-jenner.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-09 00:00:01"
         }
     },
-    "cumulative_projected_value": 13140.0,
-    "last_prediction_cycle": "2026-07-08 00:00:02"
+    "cumulative_projected_value": 13275.0,
+    "last_prediction_cycle": "2026-07-09 00:00:01"
 }
