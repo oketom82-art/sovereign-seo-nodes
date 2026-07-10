@@ -1559,8 +1559,38 @@
             "file": "production_sites/kris-jenner.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-09 00:00:01"
+        },
+        "storm-vs-dream": {
+            "keyword": "storm vs dream",
+            "file": "production_sites/storm-vs-dream.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-10 00:00:01"
+        },
+        "spacex-stock-ipo": {
+            "keyword": "spacex stock ipo",
+            "file": "production_sites/spacex-stock-ipo.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-10 00:00:01"
+        },
+        "brady-singer": {
+            "keyword": "brady singer",
+            "file": "production_sites/brady-singer.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-10 00:00:01"
+        },
+        "jake-rogers": {
+            "keyword": "jake rogers",
+            "file": "production_sites/jake-rogers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-10 00:00:01"
+        },
+        "bobby-flay": {
+            "keyword": "bobby flay",
+            "file": "production_sites/bobby-flay.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-10 00:00:01"
         }
     },
-    "cumulative_projected_value": 13275.0,
-    "last_prediction_cycle": "2026-07-09 00:00:01"
+    "cumulative_projected_value": 13500.0,
+    "last_prediction_cycle": "2026-07-10 00:00:01"
 }
