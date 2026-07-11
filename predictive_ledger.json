@@ -1589,8 +1589,38 @@
             "file": "production_sites/bobby-flay.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-10 00:00:01"
+        },
+        "bulls-summer-league": {
+            "keyword": "bulls summer league",
+            "file": "production_sites/bulls-summer-league.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-11 00:00:01"
+        },
+        "five-star-weekend-cast": {
+            "keyword": "five star weekend cast",
+            "file": "production_sites/five-star-weekend-cast.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-11 00:00:01"
+        },
+        "is-big-brother-on-tonight": {
+            "keyword": "is big brother on tonight",
+            "file": "production_sites/is-big-brother-on-tonight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-11 00:00:01"
+        },
+        "braves-vs-cardinals": {
+            "keyword": "braves vs cardinals",
+            "file": "production_sites/braves-vs-cardinals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-11 00:00:01"
+        },
+        "fernando-mendoza": {
+            "keyword": "fernando mendoza",
+            "file": "production_sites/fernando-mendoza.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-11 00:00:01"
         }
     },
-    "cumulative_projected_value": 13500.0,
-    "last_prediction_cycle": "2026-07-10 00:00:01"
+    "cumulative_projected_value": 13725.0,
+    "last_prediction_cycle": "2026-07-11 00:00:01"
 }
