@@ -1619,8 +1619,32 @@
             "file": "production_sites/fernando-mendoza.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-11 00:00:01"
+        },
+        "who-is-left-in-the-world-cup": {
+            "keyword": "who is left in the world cup",
+            "file": "production_sites/who-is-left-in-the-world-cup.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-12 00:00:02"
+        },
+        "who-does-england-play-next": {
+            "keyword": "who does england play next",
+            "file": "production_sites/who-does-england-play-next.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-12 00:00:02"
+        },
+        "its-coming-home": {
+            "keyword": "its coming home",
+            "file": "production_sites/its-coming-home.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-12 00:00:02"
+        },
+        "when-is-the-final-world-cup-game": {
+            "keyword": "when is the final world cup game",
+            "file": "production_sites/when-is-the-final-world-cup-game.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-12 00:00:02"
         }
     },
-    "cumulative_projected_value": 13725.0,
-    "last_prediction_cycle": "2026-07-11 00:00:01"
+    "cumulative_projected_value": 13905.0,
+    "last_prediction_cycle": "2026-07-12 00:00:02"
 }
