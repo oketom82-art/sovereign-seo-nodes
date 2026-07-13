@@ -1643,8 +1643,32 @@
             "file": "production_sites/when-is-the-final-world-cup-game.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-12 00:00:02"
+        },
+        "cape-fear-show": {
+            "keyword": "cape fear show",
+            "file": "production_sites/cape-fear-show.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-13 00:00:01"
+        },
+        "best-movies-to-stream-right-now": {
+            "keyword": "best movies to stream right now",
+            "file": "production_sites/best-movies-to-stream-right-now.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-13 00:00:01"
+        },
+        "5-star-weekend-cast": {
+            "keyword": "5 star weekend cast",
+            "file": "production_sites/5-star-weekend-cast.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-13 00:00:01"
+        },
+        "christopher-nolan": {
+            "keyword": "christopher nolan",
+            "file": "production_sites/christopher-nolan.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-13 00:00:01"
         }
     },
-    "cumulative_projected_value": 13905.0,
-    "last_prediction_cycle": "2026-07-12 00:00:02"
+    "cumulative_projected_value": 14085.0,
+    "last_prediction_cycle": "2026-07-13 00:00:01"
 }
