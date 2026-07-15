@@ -1697,8 +1697,32 @@
             "file": "production_sites/joe-amabile.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-14 00:00:01"
+        },
+        "once-upon-a-time-in-hollywood": {
+            "keyword": "once upon a time in hollywood",
+            "file": "production_sites/once-upon-a-time-in-hollywood.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-15 00:00:02"
+        },
+        "jennifer-hudson": {
+            "keyword": "jennifer hudson",
+            "file": "production_sites/jennifer-hudson.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-15 00:00:02"
+        },
+        "aaron-judge": {
+            "keyword": "aaron judge",
+            "file": "production_sites/aaron-judge.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-15 00:00:02"
+        },
+        "marina-mabrey": {
+            "keyword": "marina mabrey",
+            "file": "production_sites/marina-mabrey.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-15 00:00:02"
         }
     },
-    "cumulative_projected_value": 14415.0,
-    "last_prediction_cycle": "2026-07-14 00:00:01"
+    "cumulative_projected_value": 14595.0,
+    "last_prediction_cycle": "2026-07-15 00:00:02"
 }
