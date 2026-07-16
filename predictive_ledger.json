@@ -1721,8 +1721,38 @@
             "file": "production_sites/marina-mabrey.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-15 00:00:02"
+        },
+        "caitlin-clark-stats": {
+            "keyword": "caitlin clark stats",
+            "file": "production_sites/caitlin-clark-stats.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-07-16 00:00:01"
+        },
+        "bipartisan-social-security-legislation": {
+            "keyword": "bipartisan social security legislation",
+            "file": "production_sites/bipartisan-social-security-legislation.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-07-16 00:00:01"
+        },
+        "roger-rogoff-trump-administration-dismissal": {
+            "keyword": "roger rogoff trump administration dismissal",
+            "file": "production_sites/roger-rogoff-trump-administration-dismissal.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-16 00:00:01"
+        },
+        "washington-spirit-vs-gotham": {
+            "keyword": "washington spirit vs gotham",
+            "file": "production_sites/washington-spirit-vs-gotham.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-16 00:00:01"
+        },
+        "take-care-of-america's-veterans-act": {
+            "keyword": "take care of america's veterans act",
+            "file": "production_sites/take-care-of-america's-veterans-act.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-16 00:00:01"
         }
     },
-    "cumulative_projected_value": 14595.0,
-    "last_prediction_cycle": "2026-07-15 00:00:02"
+    "cumulative_projected_value": 15030.0,
+    "last_prediction_cycle": "2026-07-16 00:00:01"
 }
