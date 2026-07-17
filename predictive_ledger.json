@@ -1751,8 +1751,38 @@
             "file": "production_sites/take-care-of-america's-veterans-act.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-16 00:00:01"
+        },
+        "sarah-ashlee-barker": {
+            "keyword": "sarah ashlee barker",
+            "file": "production_sites/sarah-ashlee-barker.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-17 00:00:01"
+        },
+        "ride-or-die-2026": {
+            "keyword": "ride or die 2026",
+            "file": "production_sites/ride-or-die-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-17 00:00:01"
+        },
+        "swatch-omega-gold-moonswatch": {
+            "keyword": "swatch omega gold moonswatch",
+            "file": "production_sites/swatch-omega-gold-moonswatch.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-17 00:00:01"
+        },
+        "the-white-house-south-lawn": {
+            "keyword": "the white house south lawn",
+            "file": "production_sites/the-white-house-south-lawn.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-17 00:00:01"
+        },
+        "olive-garden-pasta-passes": {
+            "keyword": "olive garden pasta passes",
+            "file": "production_sites/olive-garden-pasta-passes.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-17 00:00:01"
         }
     },
-    "cumulative_projected_value": 15030.0,
-    "last_prediction_cycle": "2026-07-16 00:00:01"
+    "cumulative_projected_value": 15255.0,
+    "last_prediction_cycle": "2026-07-17 00:00:01"
 }
