@@ -1781,8 +1781,38 @@
             "file": "production_sites/olive-garden-pasta-passes.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-17 00:00:01"
+        },
+        "gbi-search-warrant-yurezz": {
+            "keyword": "gbi search warrant yurezz",
+            "file": "production_sites/gbi-search-warrant-yurezz.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-18 00:00:02"
+        },
+        "san-diego-wave-vs-kc-current": {
+            "keyword": "san diego wave vs kc current",
+            "file": "production_sites/san-diego-wave-vs-kc-current.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-18 00:00:02"
+        },
+        "is-mitch-mcconnell-alive": {
+            "keyword": "is mitch mcconnell alive",
+            "file": "production_sites/is-mitch-mcconnell-alive.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-18 00:00:02"
+        },
+        "jay-z-beyonc\u00e9-blue-ivy-concert": {
+            "keyword": "jay-z beyonc\u00e9 blue ivy concert",
+            "file": "production_sites/jay-z-beyonc\u00e9-blue-ivy-concert.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-18 00:00:02"
+        },
+        "orioles-vs-astros": {
+            "keyword": "orioles vs astros",
+            "file": "production_sites/orioles-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-18 00:00:02"
         }
     },
-    "cumulative_projected_value": 15255.0,
-    "last_prediction_cycle": "2026-07-17 00:00:01"
+    "cumulative_projected_value": 15480.0,
+    "last_prediction_cycle": "2026-07-18 00:00:02"
 }
