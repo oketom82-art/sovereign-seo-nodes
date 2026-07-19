@@ -1811,8 +1811,32 @@
             "file": "production_sites/orioles-vs-astros.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-18 00:00:02"
+        },
+        "prince-harry-meghan-charles-reunion": {
+            "keyword": "prince harry meghan charles reunion",
+            "file": "production_sites/prince-harry-meghan-charles-reunion.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-19 00:00:02"
+        },
+        "fire-vs-lynx": {
+            "keyword": "fire vs lynx",
+            "file": "production_sites/fire-vs-lynx.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-19 00:00:02"
+        },
+        "rebecca-lowe": {
+            "keyword": "rebecca lowe",
+            "file": "production_sites/rebecca-lowe.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-19 00:00:02"
+        },
+        "andrew-tate": {
+            "keyword": "andrew tate",
+            "file": "production_sites/andrew-tate.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-19 00:00:02"
         }
     },
-    "cumulative_projected_value": 15480.0,
-    "last_prediction_cycle": "2026-07-18 00:00:02"
+    "cumulative_projected_value": 15660.0,
+    "last_prediction_cycle": "2026-07-19 00:00:02"
 }
