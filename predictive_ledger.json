@@ -1835,8 +1835,38 @@
             "file": "production_sites/andrew-tate.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-19 00:00:02"
+        },
+        "dodgers-game-today": {
+            "keyword": "dodgers game today",
+            "file": "production_sites/dodgers-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-20 00:00:02"
+        },
+        "what-time-is-big-brother-on-tonight": {
+            "keyword": "what time is big brother on tonight",
+            "file": "production_sites/what-time-is-big-brother-on-tonight.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-20 00:00:02"
+        },
+        "will-klein": {
+            "keyword": "will klein",
+            "file": "production_sites/will-klein.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-20 00:00:02"
+        },
+        "carson-hocevar": {
+            "keyword": "carson hocevar",
+            "file": "production_sites/carson-hocevar.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-20 00:00:02"
+        },
+        "arizona-diamondbacks": {
+            "keyword": "arizona diamondbacks",
+            "file": "production_sites/arizona-diamondbacks.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-20 00:00:02"
         }
     },
-    "cumulative_projected_value": 15660.0,
-    "last_prediction_cycle": "2026-07-19 00:00:02"
+    "cumulative_projected_value": 15885.0,
+    "last_prediction_cycle": "2026-07-20 00:00:02"
 }
