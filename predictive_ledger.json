@@ -1865,8 +1865,38 @@
             "file": "production_sites/arizona-diamondbacks.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-20 00:00:02"
+        },
+        "liberty-vs-wings": {
+            "keyword": "liberty vs wings",
+            "file": "production_sites/liberty-vs-wings.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-21 00:00:02"
+        },
+        "red-sox-game": {
+            "keyword": "red sox game",
+            "file": "production_sites/red-sox-game.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-21 00:00:02"
+        },
+        "marlins-vs-astros": {
+            "keyword": "marlins vs astros",
+            "file": "production_sites/marlins-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-21 00:00:02"
+        },
+        "tigers-vs-cubs": {
+            "keyword": "tigers vs cubs",
+            "file": "production_sites/tigers-vs-cubs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-21 00:00:02"
+        },
+        "white-sox-vs-rangers": {
+            "keyword": "white sox vs rangers",
+            "file": "production_sites/white-sox-vs-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-21 00:00:02"
         }
     },
-    "cumulative_projected_value": 15885.0,
-    "last_prediction_cycle": "2026-07-20 00:00:02"
+    "cumulative_projected_value": 16110.0,
+    "last_prediction_cycle": "2026-07-21 00:00:02"
 }
