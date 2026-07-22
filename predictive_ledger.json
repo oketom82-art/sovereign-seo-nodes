@@ -1895,8 +1895,38 @@
             "file": "production_sites/white-sox-vs-rangers.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-21 00:00:02"
+        },
+        "wilt-chamberlain": {
+            "keyword": "wilt chamberlain",
+            "file": "production_sites/wilt-chamberlain.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-07-22 00:00:02"
+        },
+        "universidad-central-vs-santos": {
+            "keyword": "universidad central vs santos",
+            "file": "production_sites/universidad-central-vs-santos.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-22 00:00:02"
+        },
+        "mets---brewers": {
+            "keyword": "mets - brewers",
+            "file": "production_sites/mets---brewers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-22 00:00:02"
+        },
+        "u.-cat\u00f3lica---barcelona-sc": {
+            "keyword": "u. cat\u00f3lica - barcelona sc",
+            "file": "production_sites/u.-cat\u00f3lica---barcelona-sc.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-22 00:00:02"
+        },
+        "mandalorian-and-grogu": {
+            "keyword": "mandalorian and grogu",
+            "file": "production_sites/mandalorian-and-grogu.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-22 00:00:02"
         }
     },
-    "cumulative_projected_value": 16110.0,
-    "last_prediction_cycle": "2026-07-21 00:00:02"
+    "cumulative_projected_value": 16440.0,
+    "last_prediction_cycle": "2026-07-22 00:00:02"
 }
