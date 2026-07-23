@@ -1925,8 +1925,38 @@
             "file": "production_sites/mandalorian-and-grogu.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-22 00:00:02"
+        },
+        "jason-ellsworth-montana-contracts-verdict": {
+            "keyword": "jason ellsworth montana contracts verdict",
+            "file": "production_sites/jason-ellsworth-montana-contracts-verdict.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-23 00:00:02"
+        },
+        "sun-vs-fever": {
+            "keyword": "sun vs fever",
+            "file": "production_sites/sun-vs-fever.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-23 00:00:02"
+        },
+        "bryan-de-la-cruz": {
+            "keyword": "bryan de la cruz",
+            "file": "production_sites/bryan-de-la-cruz.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-23 00:00:02"
+        },
+        "mls-schedule": {
+            "keyword": "mls schedule",
+            "file": "production_sites/mls-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-23 00:00:02"
+        },
+        "max-fried": {
+            "keyword": "max fried",
+            "file": "production_sites/max-fried.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-23 00:00:02"
         }
     },
-    "cumulative_projected_value": 16440.0,
-    "last_prediction_cycle": "2026-07-22 00:00:02"
+    "cumulative_projected_value": 16665.0,
+    "last_prediction_cycle": "2026-07-23 00:00:02"
 }
