@@ -1979,8 +1979,32 @@
             "file": "production_sites/mobile-suit-gundam-rg.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-24 00:00:01"
+        },
+        "chicago-stars-vs-orlando-pride": {
+            "keyword": "chicago stars vs orlando pride",
+            "file": "production_sites/chicago-stars-vs-orlando-pride.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-25 00:00:02"
+        },
+        "athletics-vs-twins": {
+            "keyword": "athletics vs twins",
+            "file": "production_sites/athletics-vs-twins.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-25 00:00:02"
+        },
+        "white-house-correspondents-association-dinner": {
+            "keyword": "white house correspondents association dinner",
+            "file": "production_sites/white-house-correspondents-association-dinner.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-25 00:00:02"
+        },
+        "mariners-vs-rangers": {
+            "keyword": "mariners vs rangers",
+            "file": "production_sites/mariners-vs-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-25 00:00:02"
         }
     },
-    "cumulative_projected_value": 16950.0,
-    "last_prediction_cycle": "2026-07-24 00:00:01"
+    "cumulative_projected_value": 17130.0,
+    "last_prediction_cycle": "2026-07-25 00:00:02"
 }
