@@ -2003,8 +2003,38 @@
             "file": "production_sites/mariners-vs-rangers.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-25 00:00:02"
+        },
+        "atlanta-united-vs-new-england": {
+            "keyword": "atlanta united vs new england",
+            "file": "production_sites/atlanta-united-vs-new-england.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-26 00:00:01"
+        },
+        "dodgers---mets": {
+            "keyword": "dodgers - mets",
+            "file": "production_sites/dodgers---mets.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-26 00:00:01"
+        },
+        "cruz-azul": {
+            "keyword": "cruz azul",
+            "file": "production_sites/cruz-azul.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-26 00:00:01"
+        },
+        "mls-standings": {
+            "keyword": "mls standings",
+            "file": "production_sites/mls-standings.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-26 00:00:01"
+        },
+        "stefon-diggs": {
+            "keyword": "stefon diggs",
+            "file": "production_sites/stefon-diggs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-26 00:00:01"
         }
     },
-    "cumulative_projected_value": 17130.0,
-    "last_prediction_cycle": "2026-07-25 00:00:02"
+    "cumulative_projected_value": 17355.0,
+    "last_prediction_cycle": "2026-07-26 00:00:01"
 }
