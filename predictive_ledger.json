@@ -2033,8 +2033,26 @@
             "file": "production_sites/stefon-diggs.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-26 00:00:01"
+        },
+        "inundaci\u00f3n": {
+            "keyword": "inundaci\u00f3n",
+            "file": "production_sites/inundaci\u00f3n.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-27 00:00:01"
+        },
+        "apple-tv": {
+            "keyword": "apple tv",
+            "file": "production_sites/apple-tv.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-27 00:00:01"
+        },
+        "john-kruk": {
+            "keyword": "john kruk",
+            "file": "production_sites/john-kruk.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-27 00:00:01"
         }
     },
-    "cumulative_projected_value": 17355.0,
-    "last_prediction_cycle": "2026-07-26 00:00:01"
+    "cumulative_projected_value": 17490.0,
+    "last_prediction_cycle": "2026-07-27 00:00:01"
 }
