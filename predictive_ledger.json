@@ -2051,8 +2051,38 @@
             "file": "production_sites/john-kruk.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-27 00:00:01"
+        },
+        "st-louis-weather": {
+            "keyword": "st louis weather",
+            "file": "production_sites/st-louis-weather.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-28 00:00:02"
+        },
+        "marvel-cinematic-universe": {
+            "keyword": "marvel cinematic universe",
+            "file": "production_sites/marvel-cinematic-universe.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-28 00:00:02"
+        },
+        "davey-hearn-olympic-canoeist-case": {
+            "keyword": "davey hearn olympic canoeist case",
+            "file": "production_sites/davey-hearn-olympic-canoeist-case.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-28 00:00:02"
+        },
+        "punch-the-monkey": {
+            "keyword": "punch the monkey",
+            "file": "production_sites/punch-the-monkey.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-28 00:00:02"
+        },
+        "ice-new-york-enforcement-operations": {
+            "keyword": "ice new york enforcement operations",
+            "file": "production_sites/ice-new-york-enforcement-operations.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-28 00:00:02"
         }
     },
-    "cumulative_projected_value": 17490.0,
-    "last_prediction_cycle": "2026-07-27 00:00:01"
+    "cumulative_projected_value": 17715.0,
+    "last_prediction_cycle": "2026-07-28 00:00:02"
 }
