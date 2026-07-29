@@ -2081,8 +2081,38 @@
             "file": "production_sites/ice-new-york-enforcement-operations.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-28 00:00:02"
+        },
+        "christopher-anne-boldt": {
+            "keyword": "christopher anne boldt",
+            "file": "production_sites/christopher-anne-boldt.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-29 00:00:02"
+        },
+        "tempo-vs-lynx": {
+            "keyword": "tempo vs lynx",
+            "file": "production_sites/tempo-vs-lynx.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-29 00:00:02"
+        },
+        "iran-attack": {
+            "keyword": "iran attack",
+            "file": "production_sites/iran-attack.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-29 00:00:02"
+        },
+        "jay-clayton": {
+            "keyword": "jay clayton",
+            "file": "production_sites/jay-clayton.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-29 00:00:02"
+        },
+        "furious": {
+            "keyword": "furious",
+            "file": "production_sites/furious.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-29 00:00:02"
         }
     },
-    "cumulative_projected_value": 17715.0,
-    "last_prediction_cycle": "2026-07-28 00:00:02"
+    "cumulative_projected_value": 17940.0,
+    "last_prediction_cycle": "2026-07-29 00:00:02"
 }
