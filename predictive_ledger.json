@@ -2111,8 +2111,38 @@
             "file": "production_sites/furious.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-29 00:00:02"
+        },
+        "capital-district-floods": {
+            "keyword": "capital district floods",
+            "file": "production_sites/capital-district-floods.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-07-30 00:00:01"
+        },
+        "michael-j-fox": {
+            "keyword": "michael j fox",
+            "file": "production_sites/michael-j-fox.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-30 00:00:01"
+        },
+        "billy-ray-smith": {
+            "keyword": "billy ray smith",
+            "file": "production_sites/billy-ray-smith.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-30 00:00:01"
+        },
+        "racing-louisville-vs-kc-current": {
+            "keyword": "racing louisville vs kc current",
+            "file": "production_sites/racing-louisville-vs-kc-current.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-30 00:00:01"
+        },
+        "taysom-hill": {
+            "keyword": "taysom hill",
+            "file": "production_sites/taysom-hill.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-30 00:00:01"
         }
     },
-    "cumulative_projected_value": 17940.0,
-    "last_prediction_cycle": "2026-07-29 00:00:02"
+    "cumulative_projected_value": 18270.0,
+    "last_prediction_cycle": "2026-07-30 00:00:01"
 }
