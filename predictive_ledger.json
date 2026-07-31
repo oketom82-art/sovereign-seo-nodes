@@ -2141,8 +2141,38 @@
             "file": "production_sites/taysom-hill.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-30 00:00:01"
+        },
+        "braves-game-today": {
+            "keyword": "braves game today",
+            "file": "production_sites/braves-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-31 00:00:01"
+        },
+        "new-shelby-super-snake-sport": {
+            "keyword": "new shelby super snake sport",
+            "file": "production_sites/new-shelby-super-snake-sport.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-31 00:00:01"
+        },
+        "jeff-ulbrich": {
+            "keyword": "jeff ulbrich",
+            "file": "production_sites/jeff-ulbrich.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-31 00:00:01"
+        },
+        "james-wood": {
+            "keyword": "james wood",
+            "file": "production_sites/james-wood.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-31 00:00:01"
+        },
+        "song": {
+            "keyword": "song",
+            "file": "production_sites/song.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-07-31 00:00:01"
         }
     },
-    "cumulative_projected_value": 18270.0,
-    "last_prediction_cycle": "2026-07-30 00:00:01"
+    "cumulative_projected_value": 18495.0,
+    "last_prediction_cycle": "2026-07-31 00:00:01"
 }
