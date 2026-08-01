@@ -2171,8 +2171,38 @@
             "file": "production_sites/song.html",
             "payout_tier": 45.0,
             "generated_at": "2026-07-31 00:00:01"
+        },
+        "orlando-pride-vs-north-carolina-courage": {
+            "keyword": "orlando pride vs north carolina courage",
+            "file": "production_sites/orlando-pride-vs-north-carolina-courage.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-01 00:00:02"
+        },
+        "donald-trump-daylight-savings-time": {
+            "keyword": "donald trump daylight savings time",
+            "file": "production_sites/donald-trump-daylight-savings-time.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-01 00:00:02"
+        },
+        "pan-am-flight-103": {
+            "keyword": "pan am flight 103",
+            "file": "production_sites/pan-am-flight-103.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-01 00:00:02"
+        },
+        "rangers-vs-astros": {
+            "keyword": "rangers vs astros",
+            "file": "production_sites/rangers-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-01 00:00:02"
+        },
+        "pete-alonso": {
+            "keyword": "pete alonso",
+            "file": "production_sites/pete-alonso.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-01 00:00:02"
         }
     },
-    "cumulative_projected_value": 18495.0,
-    "last_prediction_cycle": "2026-07-31 00:00:01"
+    "cumulative_projected_value": 18720.0,
+    "last_prediction_cycle": "2026-08-01 00:00:02"
 }
