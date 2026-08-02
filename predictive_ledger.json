@@ -2201,8 +2201,38 @@
             "file": "production_sites/pete-alonso.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-01 00:00:02"
+        },
+        "gotham-vs-houston-dash": {
+            "keyword": "gotham vs houston dash",
+            "file": "production_sites/gotham-vs-houston-dash.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-02 00:00:01"
+        },
+        "emelec---aucas": {
+            "keyword": "emelec - aucas",
+            "file": "production_sites/emelec---aucas.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-02 00:00:01"
+        },
+        "elly-de-la-cruz": {
+            "keyword": "elly de la cruz",
+            "file": "production_sites/elly-de-la-cruz.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-02 00:00:01"
+        },
+        "whio": {
+            "keyword": "whio",
+            "file": "production_sites/whio.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-02 00:00:01"
+        },
+        "cody-rhodes": {
+            "keyword": "cody rhodes",
+            "file": "production_sites/cody-rhodes.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-02 00:00:01"
         }
     },
-    "cumulative_projected_value": 18720.0,
-    "last_prediction_cycle": "2026-08-01 00:00:02"
+    "cumulative_projected_value": 18945.0,
+    "last_prediction_cycle": "2026-08-02 00:00:01"
 }
