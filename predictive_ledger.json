@@ -2231,8 +2231,38 @@
             "file": "production_sites/cody-rhodes.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-02 00:00:01"
+        },
+        "the-bombing-of-pan-am-103": {
+            "keyword": "the bombing of pan am 103",
+            "file": "production_sites/the-bombing-of-pan-am-103.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-03 00:00:02"
+        },
+        "cienciano---universitario": {
+            "keyword": "cienciano - universitario",
+            "file": "production_sites/cienciano---universitario.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-03 00:00:02"
+        },
+        "chad-gable": {
+            "keyword": "chad gable",
+            "file": "production_sites/chad-gable.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-03 00:00:02"
+        },
+        "taken": {
+            "keyword": "taken",
+            "file": "production_sites/taken.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-03 00:00:02"
+        },
+        "ted-lasso": {
+            "keyword": "ted lasso",
+            "file": "production_sites/ted-lasso.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-03 00:00:02"
         }
     },
-    "cumulative_projected_value": 18945.0,
-    "last_prediction_cycle": "2026-08-02 00:00:01"
+    "cumulative_projected_value": 19170.0,
+    "last_prediction_cycle": "2026-08-03 00:00:02"
 }
