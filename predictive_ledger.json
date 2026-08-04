@@ -2261,8 +2261,38 @@
             "file": "production_sites/ted-lasso.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-03 00:00:02"
+        },
+        "luis-garc\u00eda-jr.": {
+            "keyword": "luis garc\u00eda jr.",
+            "file": "production_sites/luis-garc\u00eda-jr..html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-04 00:00:02"
+        },
+        "dodgers---cubs": {
+            "keyword": "dodgers - cubs",
+            "file": "production_sites/dodgers---cubs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-04 00:00:02"
+        },
+        "ios-27-beta-5": {
+            "keyword": "ios 27 beta 5",
+            "file": "production_sites/ios-27-beta-5.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-04 00:00:02"
+        },
+        "dodgers-vs-cubs": {
+            "keyword": "dodgers vs cubs",
+            "file": "production_sites/dodgers-vs-cubs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-04 00:00:02"
+        },
+        "blue-jays-vs-astros": {
+            "keyword": "blue jays vs astros",
+            "file": "production_sites/blue-jays-vs-astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-04 00:00:02"
         }
     },
-    "cumulative_projected_value": 19170.0,
-    "last_prediction_cycle": "2026-08-03 00:00:02"
+    "cumulative_projected_value": 19395.0,
+    "last_prediction_cycle": "2026-08-04 00:00:02"
 }
