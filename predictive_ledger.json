@@ -2291,8 +2291,32 @@
             "file": "production_sites/blue-jays-vs-astros.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-04 00:00:02"
+        },
+        "trump-iran-news": {
+            "keyword": "trump iran news",
+            "file": "production_sites/trump-iran-news.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-05 00:00:01"
+        },
+        "remo-vs-santos": {
+            "keyword": "remo vs santos",
+            "file": "production_sites/remo-vs-santos.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-05 00:00:01"
+        },
+        "costco-bakery-buttermilk-biscuits": {
+            "keyword": "costco bakery buttermilk biscuits",
+            "file": "production_sites/costco-bakery-buttermilk-biscuits.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-05 00:00:01"
+        },
+        "dow-jones-stock-markets": {
+            "keyword": "dow jones stock markets",
+            "file": "production_sites/dow-jones-stock-markets.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-05 00:00:01"
         }
     },
-    "cumulative_projected_value": 19395.0,
-    "last_prediction_cycle": "2026-08-04 00:00:02"
+    "cumulative_projected_value": 19575.0,
+    "last_prediction_cycle": "2026-08-05 00:00:01"
 }
