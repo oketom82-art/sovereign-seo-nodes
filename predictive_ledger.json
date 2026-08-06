@@ -2315,8 +2315,38 @@
             "file": "production_sites/dow-jones-stock-markets.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-05 00:00:01"
+        },
+        "dallas-vs-quer\u00e9taro": {
+            "keyword": "dallas vs quer\u00e9taro",
+            "file": "production_sites/dallas-vs-quer\u00e9taro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-06 00:00:01"
+        },
+        "senate-avoids-federal-government-shutdown": {
+            "keyword": "senate avoids federal government shutdown",
+            "file": "production_sites/senate-avoids-federal-government-shutdown.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-06 00:00:01"
+        },
+        "leagues-cup-schedule": {
+            "keyword": "leagues cup schedule",
+            "file": "production_sites/leagues-cup-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-06 00:00:01"
+        },
+        "gta-6-delay": {
+            "keyword": "gta 6 delay",
+            "file": "production_sites/gta-6-delay.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-06 00:00:01"
+        },
+        "arman-tsarukyan": {
+            "keyword": "arman tsarukyan",
+            "file": "production_sites/arman-tsarukyan.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-06 00:00:01"
         }
     },
-    "cumulative_projected_value": 19575.0,
-    "last_prediction_cycle": "2026-08-05 00:00:01"
+    "cumulative_projected_value": 19800.0,
+    "last_prediction_cycle": "2026-08-06 00:00:01"
 }
