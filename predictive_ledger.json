@@ -2345,8 +2345,38 @@
             "file": "production_sites/arman-tsarukyan.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-06 00:00:01"
+        },
+        "zhang-shuai": {
+            "keyword": "zhang shuai",
+            "file": "production_sites/zhang-shuai.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-08-07 00:00:02"
+        },
+        "the-white-house": {
+            "keyword": "the white house",
+            "file": "production_sites/the-white-house.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-07 00:00:02"
+        },
+        "mike-lafleur": {
+            "keyword": "mike lafleur",
+            "file": "production_sites/mike-lafleur.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-07 00:00:02"
+        },
+        "youtube-tv": {
+            "keyword": "youtube tv",
+            "file": "production_sites/youtube-tv.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-07 00:00:02"
+        },
+        "drew-brees": {
+            "keyword": "drew brees",
+            "file": "production_sites/drew-brees.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-07 00:00:02"
         }
     },
-    "cumulative_projected_value": 19800.0,
-    "last_prediction_cycle": "2026-08-06 00:00:01"
+    "cumulative_projected_value": 20130.0,
+    "last_prediction_cycle": "2026-08-07 00:00:02"
 }
