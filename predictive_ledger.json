@@ -2375,8 +2375,38 @@
             "file": "production_sites/drew-brees.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-07 00:00:02"
+        },
+        "san-diego-wave-vs-gotham": {
+            "keyword": "san diego wave vs gotham",
+            "file": "production_sites/san-diego-wave-vs-gotham.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-08 00:00:02"
+        },
+        "orioles-vs-rangers": {
+            "keyword": "orioles vs rangers",
+            "file": "production_sites/orioles-vs-rangers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-08 00:00:02"
+        },
+        "rockies-vs-cardinals": {
+            "keyword": "rockies vs cardinals",
+            "file": "production_sites/rockies-vs-cardinals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-08 00:00:02"
+        },
+        "cincinnati-vs-pumas-unam": {
+            "keyword": "cincinnati vs pumas unam",
+            "file": "production_sites/cincinnati-vs-pumas-unam.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-08 00:00:02"
+        },
+        "joao-fonseca": {
+            "keyword": "joao fonseca",
+            "file": "production_sites/joao-fonseca.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-08 00:00:02"
         }
     },
-    "cumulative_projected_value": 20130.0,
-    "last_prediction_cycle": "2026-08-07 00:00:02"
+    "cumulative_projected_value": 20355.0,
+    "last_prediction_cycle": "2026-08-08 00:00:02"
 }
