@@ -2405,8 +2405,38 @@
             "file": "production_sites/joao-fonseca.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-08 00:00:02"
+        },
+        "botafogo-vs-fluminense": {
+            "keyword": "botafogo vs fluminense",
+            "file": "production_sites/botafogo-vs-fluminense.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-09 00:00:01"
+        },
+        "best-movies-streaming-now": {
+            "keyword": "best movies streaming now",
+            "file": "production_sites/best-movies-streaming-now.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-09 00:00:01"
+        },
+        "storm-vs-fire": {
+            "keyword": "storm vs fire",
+            "file": "production_sites/storm-vs-fire.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-09 00:00:01"
+        },
+        "barcelona-sc---macar\u00e1": {
+            "keyword": "barcelona sc - macar\u00e1",
+            "file": "production_sites/barcelona-sc---macar\u00e1.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-09 00:00:01"
+        },
+        "freddy-fazbear-pizza-american-dream-mall": {
+            "keyword": "freddy fazbear pizza american dream mall",
+            "file": "production_sites/freddy-fazbear-pizza-american-dream-mall.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-09 00:00:01"
         }
     },
-    "cumulative_projected_value": 20355.0,
-    "last_prediction_cycle": "2026-08-08 00:00:02"
+    "cumulative_projected_value": 20580.0,
+    "last_prediction_cycle": "2026-08-09 00:00:01"
 }
