@@ -2435,8 +2435,38 @@
             "file": "production_sites/freddy-fazbear-pizza-american-dream-mall.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-09 00:00:01"
+        },
+        "astros-vs-padres": {
+            "keyword": "astros vs padres",
+            "file": "production_sites/astros-vs-padres.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-10 00:00:01"
+        },
+        "nashville-sc---san-luis": {
+            "keyword": "nashville sc - san luis",
+            "file": "production_sites/nashville-sc---san-luis.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-10 00:00:01"
+        },
+        "chicago-vs-santos-laguna": {
+            "keyword": "chicago vs santos laguna",
+            "file": "production_sites/chicago-vs-santos-laguna.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-10 00:00:01"
+        },
+        "chicago-fire---santos": {
+            "keyword": "chicago fire - santos",
+            "file": "production_sites/chicago-fire---santos.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-10 00:00:01"
+        },
+        "philadelphia-vs-necaxa": {
+            "keyword": "philadelphia vs necaxa",
+            "file": "production_sites/philadelphia-vs-necaxa.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-10 00:00:01"
         }
     },
-    "cumulative_projected_value": 20580.0,
-    "last_prediction_cycle": "2026-08-09 00:00:01"
+    "cumulative_projected_value": 20805.0,
+    "last_prediction_cycle": "2026-08-10 00:00:01"
 }
