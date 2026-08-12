@@ -2495,8 +2495,38 @@
             "file": "production_sites/brett-baty.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-11 00:00:02"
+        },
+        "trump-administration-mail-voting-lawsuit": {
+            "keyword": "trump administration mail voting lawsuit",
+            "file": "production_sites/trump-administration-mail-voting-lawsuit.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-08-12 00:00:02"
+        },
+        "field-of-dreams-game": {
+            "keyword": "field of dreams game",
+            "file": "production_sites/field-of-dreams-game.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-12 00:00:02"
+        },
+        "minnesota-primary-2026": {
+            "keyword": "minnesota primary 2026",
+            "file": "production_sites/minnesota-primary-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-12 00:00:02"
+        },
+        "oprah-stedman-graham-public-appearance": {
+            "keyword": "oprah stedman graham public appearance",
+            "file": "production_sites/oprah-stedman-graham-public-appearance.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-12 00:00:02"
+        },
+        "dylan-cease": {
+            "keyword": "dylan cease",
+            "file": "production_sites/dylan-cease.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-12 00:00:02"
         }
     },
-    "cumulative_projected_value": 21135.0,
-    "last_prediction_cycle": "2026-08-11 00:00:02"
+    "cumulative_projected_value": 21465.0,
+    "last_prediction_cycle": "2026-08-12 00:00:02"
 }
