@@ -2525,8 +2525,38 @@
             "file": "production_sites/dylan-cease.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-12 00:00:02"
+        },
+        "dijonai-carrington-foul-sophie-cunningham": {
+            "keyword": "dijonai carrington foul sophie cunningham",
+            "file": "production_sites/dijonai-carrington-foul-sophie-cunningham.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-08-13 00:00:01"
+        },
+        "aus-vs-ban": {
+            "keyword": "aus vs ban",
+            "file": "production_sites/aus-vs-ban.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-13 00:00:01"
+        },
+        "monterrey---nashville-sc": {
+            "keyword": "monterrey - nashville sc",
+            "file": "production_sites/monterrey---nashville-sc.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-13 00:00:01"
+        },
+        "gucci": {
+            "keyword": "gucci",
+            "file": "production_sites/gucci.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-13 00:00:01"
+        },
+        "will-warren": {
+            "keyword": "will warren",
+            "file": "production_sites/will-warren.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-13 00:00:01"
         }
     },
-    "cumulative_projected_value": 21465.0,
-    "last_prediction_cycle": "2026-08-12 00:00:02"
+    "cumulative_projected_value": 21795.0,
+    "last_prediction_cycle": "2026-08-13 00:00:01"
 }
