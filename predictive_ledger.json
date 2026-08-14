@@ -2555,8 +2555,38 @@
             "file": "production_sites/will-warren.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-13 00:00:01"
+        },
+        "am\u00e9rica-vs-austin": {
+            "keyword": "am\u00e9rica vs austin",
+            "file": "production_sites/am\u00e9rica-vs-austin.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-14 00:00:01"
+        },
+        "am\u00e9rica---austin-fc": {
+            "keyword": "am\u00e9rica - austin fc",
+            "file": "production_sites/am\u00e9rica---austin-fc.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-14 00:00:01"
+        },
+        "the-angiola-ii-yacht-sinking": {
+            "keyword": "the angiola ii yacht sinking",
+            "file": "production_sites/the-angiola-ii-yacht-sinking.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-14 00:00:01"
+        },
+        "kyle-schwarber": {
+            "keyword": "kyle schwarber",
+            "file": "production_sites/kyle-schwarber.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-14 00:00:01"
+        },
+        "colbie-young": {
+            "keyword": "colbie young",
+            "file": "production_sites/colbie-young.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-14 00:00:01"
         }
     },
-    "cumulative_projected_value": 21795.0,
-    "last_prediction_cycle": "2026-08-13 00:00:01"
+    "cumulative_projected_value": 22020.0,
+    "last_prediction_cycle": "2026-08-14 00:00:01"
 }
