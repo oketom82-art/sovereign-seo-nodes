@@ -2585,8 +2585,38 @@
             "file": "production_sites/colbie-young.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-14 00:00:01"
+        },
+        "arie-luyendyk-jr.": {
+            "keyword": "arie luyendyk jr.",
+            "file": "production_sites/arie-luyendyk-jr..html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-15 00:00:01"
+        },
+        "jonah-coleman": {
+            "keyword": "jonah coleman",
+            "file": "production_sites/jonah-coleman.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-15 00:00:01"
+        },
+        "sinja-kraus": {
+            "keyword": "sinja kraus",
+            "file": "production_sites/sinja-kraus.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-15 00:00:01"
+        },
+        "cbs-sports": {
+            "keyword": "cbs sports",
+            "file": "production_sites/cbs-sports.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-15 00:00:01"
+        },
+        "llws": {
+            "keyword": "llws",
+            "file": "production_sites/llws.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-15 00:00:01"
         }
     },
-    "cumulative_projected_value": 22020.0,
-    "last_prediction_cycle": "2026-08-14 00:00:01"
+    "cumulative_projected_value": 22245.0,
+    "last_prediction_cycle": "2026-08-15 00:00:01"
 }
