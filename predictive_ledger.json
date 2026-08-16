@@ -2615,8 +2615,38 @@
             "file": "production_sites/llws.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-15 00:00:01"
+        },
+        "inter-miami-vs-nashville": {
+            "keyword": "inter miami vs nashville",
+            "file": "production_sites/inter-miami-vs-nashville.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-16 00:00:01"
+        },
+        "la-galaxy-vs-houston-dynamo": {
+            "keyword": "la galaxy vs houston dynamo",
+            "file": "production_sites/la-galaxy-vs-houston-dynamo.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-16 00:00:01"
+        },
+        "halloween-shaped-chocolates": {
+            "keyword": "halloween shaped chocolates",
+            "file": "production_sites/halloween-shaped-chocolates.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-16 00:00:01"
+        },
+        "s\u00e3o-paulo-vs-coritiba": {
+            "keyword": "s\u00e3o paulo vs coritiba",
+            "file": "production_sites/s\u00e3o-paulo-vs-coritiba.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-16 00:00:01"
+        },
+        "little-league-sign-stealing": {
+            "keyword": "little league sign stealing",
+            "file": "production_sites/little-league-sign-stealing.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-16 00:00:01"
         }
     },
-    "cumulative_projected_value": 22245.0,
-    "last_prediction_cycle": "2026-08-15 00:00:01"
+    "cumulative_projected_value": 22470.0,
+    "last_prediction_cycle": "2026-08-16 00:00:01"
 }
