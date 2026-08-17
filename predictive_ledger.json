@@ -2645,8 +2645,38 @@
             "file": "production_sites/little-league-sign-stealing.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-16 00:00:01"
+        },
+        "travis-barker-documentary": {
+            "keyword": "travis barker documentary",
+            "file": "production_sites/travis-barker-documentary.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-17 00:00:01"
+        },
+        "sunday-night-football": {
+            "keyword": "sunday night football",
+            "file": "production_sites/sunday-night-football.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-17 00:00:01"
+        },
+        "disney-princess-concert": {
+            "keyword": "disney princess concert",
+            "file": "production_sites/disney-princess-concert.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-17 00:00:01"
+        },
+        "kick": {
+            "keyword": "kick",
+            "file": "production_sites/kick.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-17 00:00:01"
+        },
+        "club-america": {
+            "keyword": "club america",
+            "file": "production_sites/club-america.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-17 00:00:01"
         }
     },
-    "cumulative_projected_value": 22470.0,
-    "last_prediction_cycle": "2026-08-16 00:00:01"
+    "cumulative_projected_value": 22695.0,
+    "last_prediction_cycle": "2026-08-17 00:00:01"
 }
