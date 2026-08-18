@@ -2675,8 +2675,32 @@
             "file": "production_sites/club-america.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-17 00:00:01"
+        },
+        "dodgers-vs-rockies": {
+            "keyword": "dodgers vs rockies",
+            "file": "production_sites/dodgers-vs-rockies.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-18 00:00:01"
+        },
+        "usher-son-cinco-howard-university": {
+            "keyword": "usher son cinco howard university",
+            "file": "production_sites/usher-son-cinco-howard-university.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-18 00:00:01"
+        },
+        "2027-dodge-charger-red-oxide": {
+            "keyword": "2027 dodge charger red oxide",
+            "file": "production_sites/2027-dodge-charger-red-oxide.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-18 00:00:01"
+        },
+        "real-lioness-operatives": {
+            "keyword": "real lioness operatives",
+            "file": "production_sites/real-lioness-operatives.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-18 00:00:01"
         }
     },
-    "cumulative_projected_value": 22695.0,
-    "last_prediction_cycle": "2026-08-17 00:00:01"
+    "cumulative_projected_value": 22875.0,
+    "last_prediction_cycle": "2026-08-18 00:00:01"
 }
