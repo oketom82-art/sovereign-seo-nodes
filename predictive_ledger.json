@@ -2729,8 +2729,38 @@
             "file": "production_sites/brittney-sykes.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-19 00:00:02"
+        },
+        "flamengo-vs-cruzeiro": {
+            "keyword": "flamengo vs cruzeiro",
+            "file": "production_sites/flamengo-vs-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-20 00:00:01"
+        },
+        "flamengo-x-cruzeiro": {
+            "keyword": "flamengo x cruzeiro",
+            "file": "production_sites/flamengo-x-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-20 00:00:01"
+        },
+        "atlanta-united-vs-minnesota": {
+            "keyword": "atlanta united vs minnesota",
+            "file": "production_sites/atlanta-united-vs-minnesota.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-20 00:00:01"
+        },
+        "bayonne-little-league": {
+            "keyword": "bayonne little league",
+            "file": "production_sites/bayonne-little-league.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-20 00:00:01"
+        },
+        "angels---astros": {
+            "keyword": "angels - astros",
+            "file": "production_sites/angels---astros.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-20 00:00:01"
         }
     },
-    "cumulative_projected_value": 23100.0,
-    "last_prediction_cycle": "2026-08-19 00:00:02"
+    "cumulative_projected_value": 23325.0,
+    "last_prediction_cycle": "2026-08-20 00:00:01"
 }
