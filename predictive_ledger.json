@@ -2759,8 +2759,38 @@
             "file": "production_sites/angels---astros.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-20 00:00:01"
+        },
+        "troy-aikman": {
+            "keyword": "troy aikman",
+            "file": "production_sites/troy-aikman.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-08-21 00:00:02"
+        },
+        "botafogo-vs-cienciano": {
+            "keyword": "botafogo vs cienciano",
+            "file": "production_sites/botafogo-vs-cienciano.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-21 00:00:02"
+        },
+        "sean-mcvay-aaron-donald-update": {
+            "keyword": "sean mcvay aaron donald update",
+            "file": "production_sites/sean-mcvay-aaron-donald-update.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-21 00:00:02"
+        },
+        "kelsey-mitchell-stats": {
+            "keyword": "kelsey mitchell stats",
+            "file": "production_sites/kelsey-mitchell-stats.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-21 00:00:02"
+        },
+        "jaafar-jackson": {
+            "keyword": "jaafar jackson",
+            "file": "production_sites/jaafar-jackson.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-21 00:00:02"
         }
     },
-    "cumulative_projected_value": 23325.0,
-    "last_prediction_cycle": "2026-08-20 00:00:01"
+    "cumulative_projected_value": 23655.0,
+    "last_prediction_cycle": "2026-08-21 00:00:02"
 }
