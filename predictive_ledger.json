@@ -2789,8 +2789,38 @@
             "file": "production_sites/jaafar-jackson.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-21 00:00:02"
+        },
+        "adonai-mitchell": {
+            "keyword": "adonai mitchell",
+            "file": "production_sites/adonai-mitchell.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-08-22 00:00:02"
+        },
+        "david-bailey": {
+            "keyword": "david bailey",
+            "file": "production_sites/david-bailey.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-08-22 00:00:02"
+        },
+        "steelers-depth-chart": {
+            "keyword": "steelers depth chart",
+            "file": "production_sites/steelers-depth-chart.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-22 00:00:02"
+        },
+        "clear-eyes-eye-drops-recall": {
+            "keyword": "clear eyes eye drops recall",
+            "file": "production_sites/clear-eyes-eye-drops-recall.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-22 00:00:02"
+        },
+        "cade-klubnik": {
+            "keyword": "cade klubnik",
+            "file": "production_sites/cade-klubnik.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-22 00:00:02"
         }
     },
-    "cumulative_projected_value": 23655.0,
-    "last_prediction_cycle": "2026-08-21 00:00:02"
+    "cumulative_projected_value": 24090.0,
+    "last_prediction_cycle": "2026-08-22 00:00:02"
 }
