@@ -2819,8 +2819,32 @@
             "file": "production_sites/cade-klubnik.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-22 00:00:02"
+        },
+        "eagles-schedule-2026": {
+            "keyword": "eagles schedule 2026",
+            "file": "production_sites/eagles-schedule-2026.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-23 00:00:02"
+        },
+        "brandon-nakashima": {
+            "keyword": "brandon nakashima",
+            "file": "production_sites/brandon-nakashima.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-23 00:00:02"
+        },
+        "anthony-wint": {
+            "keyword": "anthony wint",
+            "file": "production_sites/anthony-wint.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-23 00:00:02"
+        },
+        "bears-score": {
+            "keyword": "bears score",
+            "file": "production_sites/bears-score.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-23 00:00:02"
         }
     },
-    "cumulative_projected_value": 24090.0,
-    "last_prediction_cycle": "2026-08-22 00:00:02"
+    "cumulative_projected_value": 24270.0,
+    "last_prediction_cycle": "2026-08-23 00:00:02"
 }
