@@ -2843,8 +2843,38 @@
             "file": "production_sites/bears-score.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-23 00:00:02"
+        },
+        "gotham-vs-angel-city-fc": {
+            "keyword": "gotham vs angel city fc",
+            "file": "production_sites/gotham-vs-angel-city-fc.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-24 00:00:02"
+        },
+        "atlanta-braves": {
+            "keyword": "atlanta braves",
+            "file": "production_sites/atlanta-braves.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-24 00:00:02"
+        },
+        "neymar": {
+            "keyword": "neymar",
+            "file": "production_sites/neymar.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-24 00:00:02"
+        },
+        "motor1.com": {
+            "keyword": "motor1.com",
+            "file": "production_sites/motor1.com.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-24 00:00:02"
+        },
+        "carson-kelly": {
+            "keyword": "carson kelly",
+            "file": "production_sites/carson-kelly.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-24 00:00:02"
         }
     },
-    "cumulative_projected_value": 24270.0,
-    "last_prediction_cycle": "2026-08-23 00:00:02"
+    "cumulative_projected_value": 24495.0,
+    "last_prediction_cycle": "2026-08-24 00:00:02"
 }
