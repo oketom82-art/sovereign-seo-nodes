@@ -2873,8 +2873,38 @@
             "file": "production_sites/carson-kelly.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-24 00:00:02"
+        },
+        "blood-sacrifice-netflix": {
+            "keyword": "blood sacrifice netflix",
+            "file": "production_sites/blood-sacrifice-netflix.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-25 00:00:02"
+        },
+        "valkyries-vs-lynx": {
+            "keyword": "valkyries vs lynx",
+            "file": "production_sites/valkyries-vs-lynx.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-25 00:00:02"
+        },
+        "botafogo---paranaense": {
+            "keyword": "botafogo - paranaense",
+            "file": "production_sites/botafogo---paranaense.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-25 00:00:02"
+        },
+        "new-york-knicks": {
+            "keyword": "new york knicks",
+            "file": "production_sites/new-york-knicks.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-25 00:00:02"
+        },
+        "lola-vice": {
+            "keyword": "lola vice",
+            "file": "production_sites/lola-vice.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-25 00:00:02"
         }
     },
-    "cumulative_projected_value": 24495.0,
-    "last_prediction_cycle": "2026-08-24 00:00:02"
+    "cumulative_projected_value": 24720.0,
+    "last_prediction_cycle": "2026-08-25 00:00:02"
 }
