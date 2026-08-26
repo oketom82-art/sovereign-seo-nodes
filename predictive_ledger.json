@@ -2903,8 +2903,38 @@
             "file": "production_sites/lola-vice.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-25 00:00:02"
+        },
+        "monterrey-vs-chicago": {
+            "keyword": "monterrey vs chicago",
+            "file": "production_sites/monterrey-vs-chicago.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-26 00:00:01"
+        },
+        "tom-selleck-new-television-role": {
+            "keyword": "tom selleck new television role",
+            "file": "production_sites/tom-selleck-new-television-role.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-26 00:00:01"
+        },
+        "buc-ee's-expansion-conservative-states": {
+            "keyword": "buc-ee's expansion conservative states",
+            "file": "production_sites/buc-ee's-expansion-conservative-states.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-26 00:00:01"
+        },
+        "project-runway": {
+            "keyword": "project runway",
+            "file": "production_sites/project-runway.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-26 00:00:01"
+        },
+        "darlene-graham": {
+            "keyword": "darlene graham",
+            "file": "production_sites/darlene-graham.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-26 00:00:01"
         }
     },
-    "cumulative_projected_value": 24720.0,
-    "last_prediction_cycle": "2026-08-25 00:00:02"
+    "cumulative_projected_value": 24945.0,
+    "last_prediction_cycle": "2026-08-26 00:00:01"
 }
