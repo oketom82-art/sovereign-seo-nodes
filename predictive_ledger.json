@@ -2933,8 +2933,38 @@
             "file": "production_sites/darlene-graham.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-26 00:00:01"
+        },
+        "river-plate---santa-fe": {
+            "keyword": "river plate - santa fe",
+            "file": "production_sites/river-plate---santa-fe.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-27 00:00:02"
+        },
+        "angel-city-fc-vs-north-carolina-courage": {
+            "keyword": "angel city fc vs north carolina courage",
+            "file": "production_sites/angel-city-fc-vs-north-carolina-courage.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-27 00:00:02"
+        },
+        "donald-trump-canada-trade-talks": {
+            "keyword": "donald trump canada trade talks",
+            "file": "production_sites/donald-trump-canada-trade-talks.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-27 00:00:02"
+        },
+        "ben-rice": {
+            "keyword": "ben rice",
+            "file": "production_sites/ben-rice.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-27 00:00:02"
+        },
+        "derek-chauvin": {
+            "keyword": "derek chauvin",
+            "file": "production_sites/derek-chauvin.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-27 00:00:02"
         }
     },
-    "cumulative_projected_value": 24945.0,
-    "last_prediction_cycle": "2026-08-26 00:00:01"
+    "cumulative_projected_value": 25170.0,
+    "last_prediction_cycle": "2026-08-27 00:00:02"
 }
