@@ -2963,8 +2963,38 @@
             "file": "production_sites/derek-chauvin.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-27 00:00:02"
+        },
+        "cyclospora": {
+            "keyword": "cyclospora",
+            "file": "production_sites/cyclospora.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-28 00:00:02"
+        },
+        "damar-hamlin": {
+            "keyword": "damar hamlin",
+            "file": "production_sites/damar-hamlin.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-28 00:00:02"
+        },
+        "power-outage": {
+            "keyword": "power outage",
+            "file": "production_sites/power-outage.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-28 00:00:02"
+        },
+        "katy-perry": {
+            "keyword": "katy perry",
+            "file": "production_sites/katy-perry.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-28 00:00:02"
+        },
+        "buffalo-bills": {
+            "keyword": "buffalo bills",
+            "file": "production_sites/buffalo-bills.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-28 00:00:02"
         }
     },
-    "cumulative_projected_value": 25170.0,
-    "last_prediction_cycle": "2026-08-27 00:00:02"
+    "cumulative_projected_value": 25395.0,
+    "last_prediction_cycle": "2026-08-28 00:00:02"
 }
