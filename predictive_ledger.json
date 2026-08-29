@@ -2993,8 +2993,38 @@
             "file": "production_sites/buffalo-bills.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-28 00:00:02"
+        },
+        "auburn-football-schedule": {
+            "keyword": "auburn football schedule",
+            "file": "production_sites/auburn-football-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-29 00:00:02"
+        },
+        "winter-weather-warning": {
+            "keyword": "winter weather warning",
+            "file": "production_sites/winter-weather-warning.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-29 00:00:02"
+        },
+        "yankee-game-today": {
+            "keyword": "yankee game today",
+            "file": "production_sites/yankee-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-29 00:00:02"
+        },
+        "silo-season-3-how-many-episodes": {
+            "keyword": "silo season 3 how many episodes",
+            "file": "production_sites/silo-season-3-how-many-episodes.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-29 00:00:02"
+        },
+        "pirates-vs-cardinals": {
+            "keyword": "pirates vs cardinals",
+            "file": "production_sites/pirates-vs-cardinals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-29 00:00:02"
         }
     },
-    "cumulative_projected_value": 25395.0,
-    "last_prediction_cycle": "2026-08-28 00:00:02"
+    "cumulative_projected_value": 25620.0,
+    "last_prediction_cycle": "2026-08-29 00:00:02"
 }
