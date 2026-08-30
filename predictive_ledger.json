@@ -3023,8 +3023,38 @@
             "file": "production_sites/pirates-vs-cardinals.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-29 00:00:02"
+        },
+        "jackson-state-vs-tn-state": {
+            "keyword": "jackson state vs tn state",
+            "file": "production_sites/jackson-state-vs-tn-state.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-30 00:00:02"
+        },
+        "george-lombard-jr": {
+            "keyword": "george lombard jr",
+            "file": "production_sites/george-lombard-jr.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-30 00:00:02"
+        },
+        "cincinnati-vs-nashville": {
+            "keyword": "cincinnati vs nashville",
+            "file": "production_sites/cincinnati-vs-nashville.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-30 00:00:02"
+        },
+        "vasco-da-gama-x-cruzeiro": {
+            "keyword": "vasco da gama x cruzeiro",
+            "file": "production_sites/vasco-da-gama-x-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-30 00:00:02"
+        },
+        "vasco-vs-cruzeiro": {
+            "keyword": "vasco vs cruzeiro",
+            "file": "production_sites/vasco-vs-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-30 00:00:02"
         }
     },
-    "cumulative_projected_value": 25620.0,
-    "last_prediction_cycle": "2026-08-29 00:00:02"
+    "cumulative_projected_value": 25845.0,
+    "last_prediction_cycle": "2026-08-30 00:00:02"
 }
