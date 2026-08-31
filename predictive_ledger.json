@@ -3053,8 +3053,38 @@
             "file": "production_sites/vasco-vs-cruzeiro.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-30 00:00:02"
+        },
+        "sun-vs-wings": {
+            "keyword": "sun vs wings",
+            "file": "production_sites/sun-vs-wings.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-31 00:00:01"
+        },
+        "robert-downey-jr": {
+            "keyword": "robert downey jr",
+            "file": "production_sites/robert-downey-jr.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-31 00:00:01"
+        },
+        "breece-hall-injury": {
+            "keyword": "breece hall injury",
+            "file": "production_sites/breece-hall-injury.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-31 00:00:01"
+        },
+        "toluca---ju\u00e1rez": {
+            "keyword": "toluca - ju\u00e1rez",
+            "file": "production_sites/toluca---ju\u00e1rez.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-31 00:00:01"
+        },
+        "mike-evans": {
+            "keyword": "mike evans",
+            "file": "production_sites/mike-evans.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-08-31 00:00:01"
         }
     },
-    "cumulative_projected_value": 25845.0,
-    "last_prediction_cycle": "2026-08-30 00:00:02"
+    "cumulative_projected_value": 26070.0,
+    "last_prediction_cycle": "2026-08-31 00:00:01"
 }
