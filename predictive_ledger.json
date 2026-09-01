@@ -3083,8 +3083,32 @@
             "file": "production_sites/mike-evans.html",
             "payout_tier": 45.0,
             "generated_at": "2026-08-31 00:00:01"
+        },
+        "aircraft": {
+            "keyword": "aircraft",
+            "file": "production_sites/aircraft.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-09-01 00:00:02"
+        },
+        "monday-night-football": {
+            "keyword": "monday night football",
+            "file": "production_sites/monday-night-football.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-01 00:00:02"
+        },
+        "orioles-vs-rockies": {
+            "keyword": "orioles vs rockies",
+            "file": "production_sites/orioles-vs-rockies.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-01 00:00:02"
+        },
+        "fantasy-pros-rankings": {
+            "keyword": "fantasy pros rankings",
+            "file": "production_sites/fantasy-pros-rankings.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-01 00:00:02"
         }
     },
-    "cumulative_projected_value": 26070.0,
-    "last_prediction_cycle": "2026-08-31 00:00:01"
+    "cumulative_projected_value": 26355.0,
+    "last_prediction_cycle": "2026-09-01 00:00:02"
 }
