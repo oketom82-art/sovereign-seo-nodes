@@ -3107,8 +3107,38 @@
             "file": "production_sites/fantasy-pros-rankings.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-01 00:00:02"
+        },
+        "fiba-women's-basketball-world-cup": {
+            "keyword": "fiba women's basketball world cup",
+            "file": "production_sites/fiba-women's-basketball-world-cup.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-02 00:00:02"
+        },
+        "atl\u00e9tico-mineiro-vs-cruzeiro": {
+            "keyword": "atl\u00e9tico mineiro vs cruzeiro",
+            "file": "production_sites/atl\u00e9tico-mineiro-vs-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-02 00:00:02"
+        },
+        "brewers---cubs": {
+            "keyword": "brewers - cubs",
+            "file": "production_sites/brewers---cubs.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-02 00:00:02"
+        },
+        "ryan-seacrest": {
+            "keyword": "ryan seacrest",
+            "file": "production_sites/ryan-seacrest.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-02 00:00:02"
+        },
+        "vallejo-tennis": {
+            "keyword": "vallejo tennis",
+            "file": "production_sites/vallejo-tennis.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-02 00:00:02"
         }
     },
-    "cumulative_projected_value": 26355.0,
-    "last_prediction_cycle": "2026-09-01 00:00:02"
+    "cumulative_projected_value": 26580.0,
+    "last_prediction_cycle": "2026-09-02 00:00:02"
 }
