@@ -3137,8 +3137,32 @@
             "file": "production_sites/vallejo-tennis.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-02 00:00:02"
+        },
+        "jaime-faria": {
+            "keyword": "jaime faria",
+            "file": "production_sites/jaime-faria.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-09-03 00:00:01"
+        },
+        "yahoo-fantasy-football": {
+            "keyword": "yahoo fantasy football",
+            "file": "production_sites/yahoo-fantasy-football.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-03 00:00:01"
+        },
+        "wheel-of-fortune": {
+            "keyword": "wheel of fortune",
+            "file": "production_sites/wheel-of-fortune.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-03 00:00:01"
+        },
+        "santos-vs-palmeiras": {
+            "keyword": "santos vs palmeiras",
+            "file": "production_sites/santos-vs-palmeiras.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-03 00:00:01"
         }
     },
-    "cumulative_projected_value": 26580.0,
-    "last_prediction_cycle": "2026-09-02 00:00:02"
+    "cumulative_projected_value": 26865.0,
+    "last_prediction_cycle": "2026-09-03 00:00:01"
 }
