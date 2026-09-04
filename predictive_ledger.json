@@ -3161,8 +3161,32 @@
             "file": "production_sites/santos-vs-palmeiras.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-03 00:00:01"
+        },
+        "tesla-automatic-collision-evasion-feature": {
+            "keyword": "tesla automatic collision evasion feature",
+            "file": "production_sites/tesla-automatic-collision-evasion-feature.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-04 00:00:02"
+        },
+        "coco-gauff": {
+            "keyword": "coco gauff",
+            "file": "production_sites/coco-gauff.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-04 00:00:02"
+        },
+        "yahoo-fantasy": {
+            "keyword": "yahoo fantasy",
+            "file": "production_sites/yahoo-fantasy.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-04 00:00:02"
+        },
+        "verizon-outages": {
+            "keyword": "verizon outages",
+            "file": "production_sites/verizon-outages.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-04 00:00:02"
         }
     },
-    "cumulative_projected_value": 26865.0,
-    "last_prediction_cycle": "2026-09-03 00:00:01"
+    "cumulative_projected_value": 27045.0,
+    "last_prediction_cycle": "2026-09-04 00:00:02"
 }
