@@ -3185,8 +3185,38 @@
             "file": "production_sites/verizon-outages.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-04 00:00:02"
+        },
+        "burning-man-rain": {
+            "keyword": "burning man rain",
+            "file": "production_sites/burning-man-rain.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-09-05 00:00:01"
+        },
+        "cardinals-vs-rockies": {
+            "keyword": "cardinals vs rockies",
+            "file": "production_sites/cardinals-vs-rockies.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-05 00:00:01"
+        },
+        "hugo-valenti-journey": {
+            "keyword": "hugo valenti journey",
+            "file": "production_sites/hugo-valenti-journey.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-05 00:00:01"
+        },
+        "ncaa-football-(fbs-i)": {
+            "keyword": "ncaa football (fbs i)",
+            "file": "production_sites/ncaa-football-(fbs-i).html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-05 00:00:01"
+        },
+        "ryan-reynolds": {
+            "keyword": "ryan reynolds",
+            "file": "production_sites/ryan-reynolds.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-05 00:00:01"
         }
     },
-    "cumulative_projected_value": 27045.0,
-    "last_prediction_cycle": "2026-09-04 00:00:02"
+    "cumulative_projected_value": 27375.0,
+    "last_prediction_cycle": "2026-09-05 00:00:01"
 }
