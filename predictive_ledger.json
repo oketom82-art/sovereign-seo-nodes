@@ -3215,8 +3215,38 @@
             "file": "production_sites/ryan-reynolds.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-05 00:00:01"
+        },
+        "michigan-football-roster": {
+            "keyword": "michigan football roster",
+            "file": "production_sites/michigan-football-roster.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-06 00:00:02"
+        },
+        "fluminense-vs-vasco": {
+            "keyword": "fluminense vs vasco",
+            "file": "production_sites/fluminense-vs-vasco.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-06 00:00:02"
+        },
+        "doj-subpoenas-nevada-voter-data": {
+            "keyword": "doj subpoenas nevada voter data",
+            "file": "production_sites/doj-subpoenas-nevada-voter-data.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-06 00:00:02"
+        },
+        "montana-state-football": {
+            "keyword": "montana state football",
+            "file": "production_sites/montana-state-football.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-06 00:00:02"
+        },
+        "lamar-vs-louisiana": {
+            "keyword": "lamar vs louisiana",
+            "file": "production_sites/lamar-vs-louisiana.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-06 00:00:02"
         }
     },
-    "cumulative_projected_value": 27375.0,
-    "last_prediction_cycle": "2026-09-05 00:00:01"
+    "cumulative_projected_value": 27600.0,
+    "last_prediction_cycle": "2026-09-06 00:00:02"
 }
