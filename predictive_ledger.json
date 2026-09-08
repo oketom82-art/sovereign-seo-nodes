@@ -3269,8 +3269,38 @@
             "file": "production_sites/nissan-stadium.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-07 00:00:02"
+        },
+        "fiba-2026-final-phase-schedule": {
+            "keyword": "fiba 2026 final phase schedule",
+            "file": "production_sites/fiba-2026-final-phase-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-08 00:00:02"
+        },
+        "super-bowl-2027": {
+            "keyword": "super bowl 2027",
+            "file": "production_sites/super-bowl-2027.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-08 00:00:02"
+        },
+        "espn-fantasy-football-login": {
+            "keyword": "espn fantasy football login",
+            "file": "production_sites/espn-fantasy-football-login.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-08 00:00:02"
+        },
+        "mike-norvell": {
+            "keyword": "mike norvell",
+            "file": "production_sites/mike-norvell.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-08 00:00:02"
+        },
+        "malik-nabers": {
+            "keyword": "malik nabers",
+            "file": "production_sites/malik-nabers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-08 00:00:02"
         }
     },
-    "cumulative_projected_value": 27780.0,
-    "last_prediction_cycle": "2026-09-07 00:00:02"
+    "cumulative_projected_value": 28005.0,
+    "last_prediction_cycle": "2026-09-08 00:00:02"
 }
