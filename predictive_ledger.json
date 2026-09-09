@@ -3299,8 +3299,32 @@
             "file": "production_sites/malik-nabers.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-08 00:00:02"
+        },
+        "us-open-schedule": {
+            "keyword": "us open schedule",
+            "file": "production_sites/us-open-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-09 00:00:02"
+        },
+        "us-open-bracket": {
+            "keyword": "us open bracket",
+            "file": "production_sites/us-open-bracket.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-09 00:00:02"
+        },
+        "new-hampshire-primary": {
+            "keyword": "new hampshire primary",
+            "file": "production_sites/new-hampshire-primary.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-09 00:00:02"
+        },
+        "mr-t": {
+            "keyword": "mr t",
+            "file": "production_sites/mr-t.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-09 00:00:02"
         }
     },
-    "cumulative_projected_value": 28005.0,
-    "last_prediction_cycle": "2026-09-08 00:00:02"
+    "cumulative_projected_value": 28185.0,
+    "last_prediction_cycle": "2026-09-09 00:00:02"
 }
