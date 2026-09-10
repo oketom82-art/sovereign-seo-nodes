@@ -3323,8 +3323,38 @@
             "file": "production_sites/mr-t.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-09 00:00:02"
+        },
+        "trump-mail-in-voting-executive-order": {
+            "keyword": "trump mail-in voting executive order",
+            "file": "production_sites/trump-mail-in-voting-executive-order.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-09-10 00:00:02"
+        },
+        "inter-miami-vs-chicago": {
+            "keyword": "inter miami vs chicago",
+            "file": "production_sites/inter-miami-vs-chicago.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-10 00:00:02"
+        },
+        "steelers-head-coach": {
+            "keyword": "steelers head coach",
+            "file": "production_sites/steelers-head-coach.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-10 00:00:02"
+        },
+        "cubs-vs-brewers": {
+            "keyword": "cubs vs brewers",
+            "file": "production_sites/cubs-vs-brewers.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-10 00:00:02"
+        },
+        "diamondbacks-vs-royals": {
+            "keyword": "diamondbacks vs royals",
+            "file": "production_sites/diamondbacks-vs-royals.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-10 00:00:02"
         }
     },
-    "cumulative_projected_value": 28185.0,
-    "last_prediction_cycle": "2026-09-09 00:00:02"
+    "cumulative_projected_value": 28515.0,
+    "last_prediction_cycle": "2026-09-10 00:00:02"
 }
