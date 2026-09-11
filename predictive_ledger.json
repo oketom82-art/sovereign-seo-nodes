@@ -3353,8 +3353,38 @@
             "file": "production_sites/diamondbacks-vs-royals.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-10 00:00:02"
+        },
+        "nebraska-volleyball-schedule": {
+            "keyword": "nebraska volleyball schedule",
+            "file": "production_sites/nebraska-volleyball-schedule.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-11 00:00:01"
+        },
+        "independiente-del-valle-vs-flamengo": {
+            "keyword": "independiente del valle vs flamengo",
+            "file": "production_sites/independiente-del-valle-vs-flamengo.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-11 00:00:01"
+        },
+        "jessica-pegula-husband": {
+            "keyword": "jessica pegula husband",
+            "file": "production_sites/jessica-pegula-husband.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-11 00:00:01"
+        },
+        "miami-vs-famu": {
+            "keyword": "miami vs famu",
+            "file": "production_sites/miami-vs-famu.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-11 00:00:01"
+        },
+        "taylor-sheridan": {
+            "keyword": "taylor sheridan",
+            "file": "production_sites/taylor-sheridan.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-11 00:00:01"
         }
     },
-    "cumulative_projected_value": 28515.0,
-    "last_prediction_cycle": "2026-09-10 00:00:02"
+    "cumulative_projected_value": 28740.0,
+    "last_prediction_cycle": "2026-09-11 00:00:01"
 }
