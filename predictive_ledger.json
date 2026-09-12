@@ -3383,8 +3383,38 @@
             "file": "production_sites/taylor-sheridan.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-11 00:00:01"
+        },
+        "mt-washington-9-11-lights": {
+            "keyword": "mt washington 9/11 lights",
+            "file": "production_sites/mt-washington-9-11-lights.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-12 00:00:02"
+        },
+        "welles-boston-college": {
+            "keyword": "welles boston college",
+            "file": "production_sites/welles-boston-college.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-12 00:00:02"
+        },
+        "ben-shelton-parents": {
+            "keyword": "ben shelton parents",
+            "file": "production_sites/ben-shelton-parents.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-12 00:00:02"
+        },
+        "tiafoe-girlfriend": {
+            "keyword": "tiafoe girlfriend",
+            "file": "production_sites/tiafoe-girlfriend.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-12 00:00:02"
+        },
+        "dennis-rodman": {
+            "keyword": "dennis rodman",
+            "file": "production_sites/dennis-rodman.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-12 00:00:02"
         }
     },
-    "cumulative_projected_value": 28740.0,
-    "last_prediction_cycle": "2026-09-11 00:00:01"
+    "cumulative_projected_value": 28965.0,
+    "last_prediction_cycle": "2026-09-12 00:00:02"
 }
