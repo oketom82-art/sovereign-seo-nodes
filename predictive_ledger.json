@@ -3413,8 +3413,38 @@
             "file": "production_sites/dennis-rodman.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-12 00:00:02"
+        },
+        "sfa-vs-acu": {
+            "keyword": "sfa vs acu",
+            "file": "production_sites/sfa-vs-acu.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-13 00:00:02"
+        },
+        "brewers-game-today": {
+            "keyword": "brewers game today",
+            "file": "production_sites/brewers-game-today.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-13 00:00:02"
+        },
+        "bay-fc-vs-seattle-reign-fc": {
+            "keyword": "bay fc vs seattle reign fc",
+            "file": "production_sites/bay-fc-vs-seattle-reign-fc.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-13 00:00:02"
+        },
+        "nebraska-football-score": {
+            "keyword": "nebraska football score",
+            "file": "production_sites/nebraska-football-score.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-13 00:00:02"
+        },
+        "santos-x-cruzeiro": {
+            "keyword": "santos x cruzeiro",
+            "file": "production_sites/santos-x-cruzeiro.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-13 00:00:02"
         }
     },
-    "cumulative_projected_value": 28965.0,
-    "last_prediction_cycle": "2026-09-12 00:00:02"
+    "cumulative_projected_value": 29190.0,
+    "last_prediction_cycle": "2026-09-13 00:00:02"
 }
