@@ -3443,8 +3443,38 @@
             "file": "production_sites/santos-x-cruzeiro.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-13 00:00:02"
+        },
+        "isaiah-likely": {
+            "keyword": "isaiah likely",
+            "file": "production_sites/isaiah-likely.html",
+            "payout_tier": 150.0,
+            "generated_at": "2026-09-14 00:00:02"
+        },
+        "padres---giants": {
+            "keyword": "padres - giants",
+            "file": "production_sites/padres---giants.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-14 00:00:02"
+        },
+        "giants-qb": {
+            "keyword": "giants qb",
+            "file": "production_sites/giants-qb.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-14 00:00:02"
+        },
+        "darnell-mooney": {
+            "keyword": "darnell mooney",
+            "file": "production_sites/darnell-mooney.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-14 00:00:02"
+        },
+        "kwity-paye": {
+            "keyword": "kwity paye",
+            "file": "production_sites/kwity-paye.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-14 00:00:02"
         }
     },
-    "cumulative_projected_value": 29190.0,
-    "last_prediction_cycle": "2026-09-13 00:00:02"
+    "cumulative_projected_value": 29520.0,
+    "last_prediction_cycle": "2026-09-14 00:00:02"
 }
