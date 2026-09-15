@@ -3473,8 +3473,26 @@
             "file": "production_sites/kwity-paye.html",
             "payout_tier": 45.0,
             "generated_at": "2026-09-14 00:00:02"
+        },
+        "paul-anthony-kelly": {
+            "keyword": "paul anthony kelly",
+            "file": "production_sites/paul-anthony-kelly.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-15 00:00:01"
+        },
+        "bo-nix-injury": {
+            "keyword": "bo nix injury",
+            "file": "production_sites/bo-nix-injury.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-15 00:00:01"
+        },
+        "linda-cardellini": {
+            "keyword": "linda cardellini",
+            "file": "production_sites/linda-cardellini.html",
+            "payout_tier": 45.0,
+            "generated_at": "2026-09-15 00:00:01"
         }
     },
-    "cumulative_projected_value": 29520.0,
-    "last_prediction_cycle": "2026-09-14 00:00:02"
+    "cumulative_projected_value": 29655.0,
+    "last_prediction_cycle": "2026-09-15 00:00:01"
 }
