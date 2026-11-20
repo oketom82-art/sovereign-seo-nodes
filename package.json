@@ -1,0 +1,32 @@
+{
+  "name": "sovereign-seo-nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oketom82-art/sovereign-seo-nodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oketom82-art/sovereign-seo-nodes/issues"
+  },
+  "homepage": "https://github.com/oketom82-art/sovereign-seo-nodes#readme",
+  "dependencies": {
+    "@paper-design/shaders-react": "^0.0.82",
+    "@react-spring/three": "^10.1.2",
+    "@react-three/fiber": "^9.8.2",
+    "@shadergradient/react": "^2.4.20",
+    "camera-controls": "^3.1.2",
+    "liquid-glass-js": "^0.1.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "three": "^0.187.0",
+    "three-stdlib": "^2.36.1"
+  }
+}
